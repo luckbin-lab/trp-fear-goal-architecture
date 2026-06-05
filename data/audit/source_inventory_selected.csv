@@ -1,0 +1,757 @@
+modality,source_filepath,selected
+freezing,研究1a/oringinaldata/freeze/freeze_0901/freeze_Xinrat0424learn.csv,True
+freezing,研究1a/oringinaldata/freeze/freeze_0901/freeze_Xinrat0425context.csv,True
+freezing,研究1a/oringinaldata/freeze/freeze_0901/freeze_Xinrat0425cue.csv,True
+freezing,研究1a/oringinaldata/freeze/freeze_0901/freeze_Xinrat5k0427.csv,True
+freezing,研究1a/oringinaldata/freeze/freeze_0901/freeze_Xinrat7k0426.csv,True
+freezing,研究1b/oringinaldata/freezing/contextual test/前测/freeze_Xinrat0425context.csv,True
+freezing,研究1b/oringinaldata/freezing/contextual test/后测/freeze_0921context.csv,True
+freezing,研究1b/oringinaldata/freezing/cue test/前测/freeze_Xinrat0425cue.csv,True
+freezing,研究1b/oringinaldata/freezing/cue test/后测/freeze_0921CUE.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_LTM.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_extinction.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_extinction2.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_extinction3.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_extinction4.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_finaltest.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_learn.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_renewal.csv,True
+freezing,研究2/orginal data/freezing/第一批次/freeze_retrieve.csv,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_LTM0108.csv,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_LTM0113.csv,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_extinction0107.csv,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_extinction0110.csv,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_extinction0111.xlsx,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_extinction0112.csv,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_learn17rats.csv,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_renewal0109.csv,True
+freezing,研究2/orginal data/freezing/第二批次/freeze_retrieve11RAT.csv,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin1Bcontext 2024-04-29  8_41 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/cue test/Xin1Bcue 2024-04-26  1_46 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin1Bcue 2024-04-30 10_21 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin1B5k 2024-04-30  9_54 AM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/generalization 7kHz/Xin1B7k 2024-04-28  6_36 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin1B7k 2024-04-29 11_17 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin1Blearn 2024-04-25  4_28 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin1Blearn 2024-04-29  8_34 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/retest/Xin1Bre 2024-09-06 12_19 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin1Bre 2024-09-05  4_54 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin1Gcontext 2024-04-29  8_21 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/cue test/Xin1Gcue 2024-04-26  1_47 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin1Gcue 2024-04-30 10_09 AM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/generalization 5kHz/Xin1G5k 2024-04-29  7_04 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin1G5k 2024-04-30 10_04 AM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/generalization 7kHz/Xin1G7k 2024-04-28  6_37 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin1G7k 2024-04-29 11_18 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin1Glearn 2024-04-25  7_08 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin1Glearn 2024-04-29  8_28 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin1Gre 2024-09-05  4_48 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin1Rcontext 2024-04-29  8_07 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/cue test/Xin1Rcue 2024-04-26  1_48 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin1Rcue 2024-04-30  9_49 AM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/generalization 5kHz/Xin1R5k 2024-04-29  6_46 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin1R5k 2024-04-30  9_55 AM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/generalization 7kHz/Xin1R7k 2024-04-28  6_38 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin1R7k 2024-04-29 11_19 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin1Rlearn 2024-04-29  8_06 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/retest/Xin1Rre 2024-09-06 12_12 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin1Rre 2024-09-05  4_40 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin2Bcontext 2024-04-29  9_19 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin2Bcue 2024-04-30 10_44 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin2B5k 2024-04-30 10_28 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin2B7k 2024-04-30 12_14 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin2Bcontrol 2024-04-29  8_55 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin2Bre 2024-09-05  5_30 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin2Gcontext 2024-04-29  9_04 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin2Gcue 2024-04-30 10_41 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin2G5k 2024-04-30  9_56 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin2G7k 2024-04-30 12_14 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin2Gcontrol 2024-04-29  8_52 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin2Rcontext 2024-04-29  8_46 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin2Rcue 2024-04-30 10_27 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin2R5k 2024-04-30 10_15 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin2R7k 2024-04-30 12_05 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin2Rcontrol 2024-04-29  8_47 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin2Rre 2024-09-05  5_04 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin3Bcontext 2024-04-30  2_08 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin3Bcue 2024-04-30 11_05 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin3B5k 2024-04-30 11_02 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin3B7k 2024-04-30 12_14 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin3Bcontrol 2024-04-29  9_33 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin3Bre 2024-09-06 10_48 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin3Gcontext 2024-04-30  2_08 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin3Gcue 2024-04-30 10_57 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin3G5k 2024-04-30 10_56 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin3G7k 2024-04-30 12_15 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin3Gcontrol 2024-04-29  9_21 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin3Gre 2024-09-06 10_41 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin3Rcontext 2024-04-29  9_27 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin3Rcue 2024-04-30 10_49 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin3R5k 2024-04-30 10_49 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin3R7k 2024-04-30 12_15 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin3Rcontrol 2024-04-29  9_08 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin3Rre 2024-09-05 10_01 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin4Bcontext 2024-04-29  9_59 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/cue test/Xin4Bcue 2024-04-26  1_49 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin4Bcue 2024-04-30 11_25 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin4B5k 2024-04-30 11_14 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin4B7k 2024-04-30 12_16 AM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin4Blearn 2024-04-25  7_12 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin4Blearn 2024-04-29  9_58 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin4Bre 2024-09-06 11_06 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin4Gcontext 2024-04-29  9_48 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin4Gcue 2024-04-30 11_16 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin4G5k 2024-04-30 11_07 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin4G7k 2024-04-30 12_16 AM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin4Glearn 2024-04-25  7_14 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin4Glearn 2024-04-29  9_44 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin4Gre 2024-09-06 11_01 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/context/Xin4Rcontext 2024-04-29  9_39 PM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/cue test/Xin4Rcue 2024-04-26  1_51 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/cue test/Xin4Rcue 2024-04-30 11_11 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin4R5k 2024-04-30  9_58 AM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin4R7k 2024-04-30 12_17 AM_Stats.xlsx,True
+usv_22,研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin4Rlearn 2024-04-25  7_16 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/learning/Xin4Rlearn 2024-04-29  9_39 PM_Stats.xlsx,True
+usv_50,研究1a/oringinaldata/50kHz Matlab export/retest/Xin4Rre 2024-09-06 10_53 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin1Bcontext 2024-04-29  8_41 PM_Stats.xlsx,True
+usv_22,研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin1Bcue 2024-04-26  1_46 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin1Bcue 2024-04-30 10_21 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin1Bcontext2 2024-09-23  7_14 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin1Bcue2 2024-09-23  8_11 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin1Gcontext 2024-04-29  8_21 PM_Stats.xlsx,True
+usv_22,研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin1Gcue 2024-04-26  1_47 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin1Gcue 2024-04-30 10_09 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin1Gcontex2 2024-09-23  7_29 PM_Stats.xlsx,True
+usv_22,研究1b/oringinaldata/22kHz USVs/cue test/后测/xin1Gcue2 2024-09-21  9_59 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin1Gcue2 2024-09-23  7_42 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin1Rcontext 2024-04-29  8_07 PM_Stats.xlsx,True
+usv_22,研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin1Rcue 2024-04-26  1_48 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin1Rcue 2024-04-30  9_49 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin1Rcontext2 2024-09-23  7_37 PM_Stats.xlsx,True
+usv_22,研究1b/oringinaldata/22kHz USVs/cue test/后测/xin1Rcue2 2024-09-21  9_45 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin1Rcue2 2024-09-23  8_01 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin2Bcontext 2024-04-29  9_19 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin2Bcue 2024-04-30 10_44 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin2Bcontext2 2024-09-23  7_48 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin2Bcue2s 2024-09-23  9_32 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin2Gcontext 2024-04-29  9_04 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin2Gcue 2024-04-30 10_41 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin2Gcontex2 2024-09-23  7_52 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin2Gcue2 2024-09-23  8_15 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin2Rcontext 2024-04-29  8_46 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin2Rcue 2024-04-30 10_27 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin2Rcontext2 2024-09-23  7_58 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin2Rcue2s 2024-09-23  9_02 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin3Bcontext 2024-04-30  2_08 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin3Bcue 2024-04-30 11_05 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin3Bcontex2 2024-09-23  8_20 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin3Bcue2 2024-09-23  8_28 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin3Gcontext 2024-04-30  2_08 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin3Gcue 2024-04-30 10_57 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin3Gcontext2 2024-09-23  8_32 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin3Gcue2s 2024-09-23  9_38 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin3Rcontext 2024-04-29  9_27 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin3Rcue 2024-04-30 10_49 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin3Rcontex2 2024-09-23  8_48 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin3Rcue2 2024-09-23  8_24 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin4Bcontext 2024-04-29  9_59 PM_Stats.xlsx,True
+usv_22,研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin4Bcue 2024-04-26  1_49 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin4Bcue 2024-04-30 11_25 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin4Bcontex2 2024-09-23  8_59 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin4Bscue2 2024-09-23  8_38 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin4Gcontext 2024-04-29  9_48 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin4Gcue 2024-04-30 11_16 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin4Gcontext2 2024-09-23  9_07 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin4Gcue2 2024-09-23  8_44 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin4Rcontext 2024-04-29  9_39 PM_Stats.xlsx,True
+usv_22,研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin4Rcue 2024-04-26  1_51 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin4Rcue 2024-04-30 11_11 AM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin4Rcontex2 2024-09-23  9_16 PM_Stats.xlsx,True
+usv_50,研究1b/oringinaldata/50kHz USVs/cue test/后测/xin4Rcue2 2024-09-23  8_32 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT1B 2025-01-01  5_10 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT1B 2025-02-08  4_35 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/EXT1B 2025-02-17  8_33 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT1B-ext 2025-01-01  8_45 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/0223处理/EXT1B 2025-02-08  3_36 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT1B 2025-02-20  4_37 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT1B 2025-02-08  4_05 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT1B 2025-02-20  8_56 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/EXT1B 2025-02-21 12_05 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT1B 2024-12-31 12_03 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT1B 2025-02-16 10_17 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT1Brenewal 2025-01-02  4_47 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT1Brenewal 2025-02-17  7_54 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/0223处理_ret/EXT1B-ret 2025-01-01  5_41 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/2retrieve/EXT1B-ret 2025-02-16 10_54 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT1G 2025-01-01  4_52 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/EXT1G 2025-02-17  7_34 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT1G 2025-02-08  4_40 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/EXT1G 2025-02-17  8_29 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT1G-ext 2024-12-31  7_00 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT1G 2025-02-20  4_28 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT1G 2025-02-08  3_57 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT1G 2025-02-20  8_45 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/EXT1G 2025-02-20 11_56 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT1G 2024-12-30  9_52 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT1G 2025-02-16 10_05 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT1G renewal 2025-01-02  4_06 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT1G renewal 2025-02-17  7_51 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/0223处理_ret/EXT1G-ret 2024-12-31  5_47 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/2retrieve/EXT1G-ret 2025-02-16 10_57 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT1R 2025-02-08  4_44 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/EXT1R 2025-02-17  8_23 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT1R 2025-02-20  4_16 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT1R 2025-02-20  5_42 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/EXT1R 2025-02-20 11_43 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT1R 2024-12-30  9_38 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT1R 2025-02-16  9_58 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT1Rrenewal 2025-02-17  7_48 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/EXT1R-ret 2025-01-01  5_38 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT2B 2025-01-08  9_13 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/EXT2B 2025-02-06 11_21 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT2B 2025-01-20 10_51 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT2B-ext 2025-01-19 11_05 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/EXT2B-ext 2025-02-09  6_14 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/0223处理/EXT2B 2025-01-21  6_52 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT2B 2025-02-06  6_59 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/EXT2B 2025-01-23 10_24 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT2B 2025-02-11 11_26 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/EXT2B 2025-01-24 12_31 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT2B 2025-01-08  9_03 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT2B 2025-02-05 11_32 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT2B 2025-01-09  4_53 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT2B 2025-02-10  9_00 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/EXT2B-ret 2025-01-19 11_21 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/2retrieve/EXT2B-ret 2025-02-09  6_06 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT2G 2025-01-09  3_24 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/EXT2G 2025-02-06  6_00 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT2G 2025-01-20 10_54 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT2G-ext 2025-01-19 11_26 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/EXT2G-ext 2025-02-09  6_38 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/EXT2G 2025-01-21  6_48 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT2G 2025-02-06  7_08 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/EXT2G 2025-01-23 10_09 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT2G 2025-02-10 11_53 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/EXT2G 2025-01-24 12_33 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT2G 2025-01-08 11_59 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT2G 2025-02-05 11_34 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT2G 2025-01-09  5_05 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT2G 2025-02-10  8_51 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/EXT2G-ret 2025-01-19 11_40 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/2retrieve/EXT2G-ret 2025-02-09  6_29 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT2R 2025-01-08 11_37 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/EXT2R 2025-02-06  6_08 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT2R 2025-01-20 10_58 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/EXT2R 2025-02-11  5_49 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT2R-ext 2025-01-19 11_44 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/EXT2R-ext 2025-02-09  7_07 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/EXT2R 2025-01-21  6_42 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT2R 2025-02-06  7_24 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT2R 2025-01-23 10_01 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT2R 2025-02-11 12_08 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/EXT2R 2025-01-24 12_34 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/EXT2R 2025-02-11  1_09 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT2R 2025-01-08  9_26 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT2R 2025-02-05 11_37 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/EXT2R 2025-01-09  4_50 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT2R 2025-02-10  8_40 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/EXT2R-ret 2025-01-19  8_51 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/2retrieve/EXT2R-ret 2025-02-09  6_57 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT3B 2025-01-08  9_00 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/EXT3B 2025-02-06  6_16 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT3B 2025-01-20 11_01 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/EXT3B 2025-02-11  6_15 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/EXT3B-ext 2025-01-19  8_56 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/EXT3B-ext 2025-02-09  8_09 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT3B 2025-02-06  7_31 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT3B 2025-01-23 11_37 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT3B 2025-02-11 11_52 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/EXT3B 2025-01-24 12_36 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/EXT3B 2025-02-11  1_51 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT3B 2025-01-07  8_21 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT3B 2025-02-05 11_39 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT3B 2025-01-09  5_08 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT3B 2025-02-10  9_43 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/EXT3B-ret 2025-01-19  9_05 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/2retrieve/EXT3B-ret 2025-02-09  7_22 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT3G 2025-01-09  3_51 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/EXT3G 2025-02-06  6_21 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT3G 2025-01-20 11_04 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/EXT3G 2025-02-11  6_02 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT3G-ext 2025-01-19  9_09 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/EXT3G-ext 2025-02-09 10_16 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/0223处理/EXT3G 2025-01-21  7_07 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT3G 2025-02-06  7_45 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT3G 2025-01-23 10_58 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT3G 2025-02-11 11_41 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/EXT3G 2025-01-24 12_38 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT3G 2025-01-07  8_39 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT3G 2025-02-05 11_41 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT3G 2025-01-09  4_59 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT3G 2025-02-10  9_32 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/0223处理_ret/EXT3G-ret 2025-01-19 10_53 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT3R 2025-01-08  9_06 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/EXT3R 2025-02-06  6_25 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/EXT3R 2025-01-20 11_08 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/EXT3R 2025-02-11  5_56 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT3R-ext 2025-01-20 10_51 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/0223处理/EXT3R 2025-01-21  7_19 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/EXT3R 2025-02-06  7_53 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT3R 2025-01-23 10_32 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/EXT3R 2025-02-11 11_32 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/EXT3R 2025-01-24 12_39 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT3R 2025-01-07  9_07 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/EXT3R 2025-02-05 11_43 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT3R 2025-01-09  5_11 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/EXT3R 2025-02-10  9_14 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/EXT3R-ret 2025-01-20 11_28 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT1B 2025-01-01  5_16 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/NO EXT1B 2025-02-17  7_41 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/NO EXT1B 2025-02-08  4_47 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/NO EXT1B 2025-02-17  8_52 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/NO EXT1B-extc 2025-02-16 11_46 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/NO EXT1B 2025-02-20  5_20 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/0223处理/NO EXT1B 2025-02-08  4_16 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/NO EXT1B 2025-02-20 11_30 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/NO EXT1B 2025-02-21 12_40 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT1B 2024-12-31 12_23 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/NO EXT1B 2025-02-16 10_42 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/NO EXT1Brenewal 2025-01-02  5_05 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/NO EXT1Brenewal 2025-02-17  8_03 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/0223处理_ret/NO EXT1B-retc 2025-02-08  2_42 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/NO EXT1G 2025-02-17  7_39 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/NO EXT1G 2025-02-08  4_49 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/NO EXT1G 2025-02-17  8_46 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/NO EXT1G-extc 2025-02-16 11_39 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/NO EXT1G 2025-02-20  5_09 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/NO EXT1G 2025-02-20 11_17 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/NO EXT1G 2025-02-21 12_25 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT1G 2024-12-31 12_18 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/NO EXT1G 2025-02-16 10_32 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/NO EXT1Grenewal 2025-02-17  7_58 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/2retrieve/NO EXT1G-retc 2025-02-16 11_13 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT1R 2025-01-01  4_50 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/NO EXT1R 2025-02-08  4_44 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/NO EXT1R 2025-02-17  8_42 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/NO EXT1R-extc 2025-02-16 11_26 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/NO EXT1R 2025-02-20 10_17 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/NO EXT1R 2025-02-21 12_17 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT1R 2024-12-30 11_36 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/NO EXT1R 2025-02-16 10_25 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT2B 2025-01-09  9_20 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/NO EXT2B 2025-02-10  7_32 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/NO EXT2B 2025-01-20 11_14 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/NO EXT2B 2025-02-11  6_30 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/NO EXT2B-ext 2025-01-20 11_32 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/NO EXT2Bs 2025-01-21  7_38 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/NO EXT2Bs 2025-02-06  7_58 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/NO EXT2B 2025-01-24 12_12 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/NO EXT2B 2025-02-11 12_25 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/NO EXT2B 2025-01-24 12_40 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/NO EXT2B 2025-02-11  2_07 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT2B 2025-01-08 11_25 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/NO EXT2B 2025-02-08  5_28 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/NO EXT2B 2025-01-09  5_22 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/NO EXT2B 2025-02-10 10_00 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/NO EXT2B-ret 2025-01-20 11_37 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT2G 2025-01-08  9_41 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/NO EXT2G 2025-02-10  7_20 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/NO EXT2G 2025-01-20 11_35 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/NO EXT2G 2025-02-11  6_22 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/NO EXT2G-ext 2025-01-20 11_42 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/0223处理/NO EXT2Gs 2025-01-21  7_35 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/NO EXT2Gs 2025-02-06  8_19 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/NO EXT2G 2025-01-23 11_49 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/NO EXT2G 2025-02-11 12_15 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/NO EXT2G 2025-01-24 12_42 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT2G 2025-01-09 12_05 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/NO EXT2G 2025-02-06 11_56 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/NO EXT2G 2025-01-09  5_26 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/NO EXT2G 2025-02-10  9_55 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/NO EXT2G-ret 2025-01-20 11_49 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT3B 2025-01-09  9_36 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/NO EXT3B 2025-02-10  8_31 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/NO EXT3B 2025-01-20 11_46 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/NO EXT3B 2025-02-11  6_39 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/NO EXT3B-ext 2025-01-20 11_55 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/NO EXT3B-ext 2025-02-10 12_17 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/NO EXT3B 2025-01-21  7_47 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/NO EXT3B 2025-02-06  8_24 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/NO EXT3B 2025-01-24 12_27 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/NO EXT3B 2025-02-11 12_52 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/NO EXT3B 2025-01-24 12_43 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/NO EXT3B 2025-02-11  2_35 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/NO EXT3B 2025-02-05 11_51 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/NO EXT3B 2025-01-09  5_36 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/NO EXT3B 2025-02-10  9_40 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/NO EXT3B-ret 2025-01-20 11_58 AM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT3G 2025-01-08  9_50 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/NO EXT3G 2025-02-10  8_14 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/NO EXT3G 2025-01-20 11_51 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/NO EXT3G-ext 2025-01-20 12_02 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/NO EXT3G 2025-01-21  7_51 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/NO EXT3G 2025-02-06  8_32 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/NO EXT3G 2025-01-24 12_24 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/NO EXT3G 2025-02-11 12_45 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/NO EXT3G 2025-01-24 12_45 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/NO EXT3G 2025-02-11  2_28 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT3G 2025-01-09 12_17 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/NO EXT3G 2025-02-05 11_53 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/NO EXT3G 2025-01-09  5_33 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/NO EXT3G 2025-02-10 10_13 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/NO EXT3G-ret 2025-01-20 12_05 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT3R 2025-01-09  9_41 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/4LTM/NO EXT3R 2025-02-10  8_07 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/9LTM2/NO EXT3R 2025-01-21 12_03 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/9LTM2/NO EXT3R 2025-02-11  6_36 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/3extinction1/NO EXT3R-ext 2025-01-20 12_09 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/3extinction1/NO EXT3R-ext 2025-02-09 11_57 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/6extinction2/NO EXT3R 2025-01-21  7_42 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/6extinction2/NO EXT3R 2025-02-06  8_36 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/7extinction3/NO EXT3R 2025-01-24 12_18 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/7extinction3/NO EXT3R 2025-02-11 12_40 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/8extinction4/NO EXT3R 2025-01-24 12_46 AM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/8extinction4/NO EXT3R 2025-02-11  2_17 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT3R 2025-01-07 11_28 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/1learn/NO EXT3R 2025-02-05 11_55 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/5renewal/NO EXT3R 2025-01-09  5_39 PM_Stats.xlsx,True
+usv_50,研究2/orginal data/50kHz USVs/5renewal/NO EXT3R 2025-02-10 10_07 PM_Stats.xlsx,True
+usv_22,研究2/orginal data/22kHz USVs/2retrieve/NO EXT3R-ret 2025-01-20 12_12 PM_Stats.xlsx,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__14_55_00_Xin1R5k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__14_55_06_Xin1G5k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__15_12_00_Xin1B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__15_12_06_Xin4R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__15_27_00_Xin4G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__15_27_06_Xin4B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__15_41_00_Xin2R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__15_41_06_Xin2G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__15_55_00_Xin2B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__15_55_06_Xin3R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__16_09_00_Xin3G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 5KHZ/2024_04_27__16_09_06_Xin3B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__14_56_00_Xin1R7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__14_56_06_Xin1G7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__15_15_00_Xin1B7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__15_15_06_Xin4R7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__15_32_00_Xin4G7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__15_32_06_Xin4B7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__15_50_00_Xin2R7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__15_50_06_Xin2G7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__16_06_00_Xin2B7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__16_06_06_Xin3R7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__16_20_00_Xin3G7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 7KHZ/2024_04_26__16_20_06_Xin3B7k.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__14_46_00_Xin1R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__14_46_06_Xin1G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__14_55_00_Xin1B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__14_55_06_Xin4R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__15_02_00_Xin4G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__15_02_06_Xin4B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__15_11_00_Xin2R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__15_11_06_Xin2G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__15_19_00_Xin2B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__15_19_06_Xin3R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__15_26_00_Xin3G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 contextual/2024_04_25__15_26_06_Xin3B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__15_44_00_Xin1R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__16_03_00_Xin1B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__16_03_06_Xin4R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__16_19_00_Xin4G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__16_19_06_Xin4B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__16_39_00_Xin2R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__16_39_06_Xin2G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__16_53_00_Xin2B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__16_53_06_Xin3R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__17_07_00_Xin3G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 cue/2024_04_25__17_07_06_Xin3B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__14_48_00_XinR.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__14_48_06_Xin1G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__15_05_00_Xin1B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__15_05_06_Xin4R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__15_20_00_Xin4G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__15_20_06_Xin4B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__15_33_00_Xin2R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__15_33_06_Xini2G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__15_49_00_Xin2B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__15_49_06_Xin3R.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__16_02_00_Xin3G.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4 retest/2024_04_28__16_02_06_Xin3B.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__14_19_00_Xin1Rlearn.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__14_19_06_Xin1Glearn.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__14_45_00_Xin1Blearn.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__14_45_06_Xin4Rlearn.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__15_11_00_Xin4Glearn.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__15_11_06_Xin4Blearn.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__15_37_00_Xin2Rcontrol.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__15_37_06_Xin2Gcontrol.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__16_02_00_Xin2Bcontrol.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__16_02_06_Xin3Rcontrol.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__16_27_00_Xin3Gcontrol.csv,True
+lever,研究1a/oringinaldata/leverpresses/Excel_GS4/GS4_learn/2024_04_24__16_27_06_Xin3Bcontrol.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__14_46_00_Xin1R.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__14_46_06_Xin1G.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__14_55_00_Xin1B.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__14_55_06_Xin4R.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__15_02_00_Xin4G.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__15_02_06_Xin4B.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__15_11_00_Xin2R.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__15_11_06_Xin2G.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__15_19_00_Xin2B.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__15_19_06_Xin3R.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__15_26_00_Xin3G.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/情境恐惧测试/Excel_GS4/2024_04_25__15_26_06_Xin3B.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__15_44_00_Xin1R.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__16_03_00_Xin1B.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__16_03_06_Xin4R.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__16_19_00_Xin4G.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__16_19_06_Xin4B.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__16_39_00_Xin2R.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__16_39_06_Xin2G.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__16_53_00_Xin2B.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__16_53_06_Xin3R.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__17_07_00_Xin3G.csv,True
+lever,研究1b/oringinaldata/lever presses/前测/音调线索恐惧测试/Excel_GS4/2024_04_25__17_07_06_Xin3B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_24_00_XIN1R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_24_07_XIN1G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_35_00_XIN1B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_35_07_XIN4R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_43_00_XIN4G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_43_07_XIN4B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_51_00_XIN2R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_51_07_XIN2G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_58_00_XIN2B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__14_58_07_XIN3R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__15_04_00_XIN3G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/情境恐惧测试/Excel_GS4/2024_09_21__15_04_07_XIN3B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__15_40_00_XIN1R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__15_40_07_XIN1G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__16_04_00_XIN1B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__16_04_07_XIN4R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__16_21_00_XIN4G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__16_21_07_XIN4B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__17_19_00_XIN2R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__17_19_07_XIN2G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__17_32_00_XIN2B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__17_32_07_XIN3R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__17_45_00_XIN3G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__17_45_07_XIN3B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__18_00_00_XIN4Gs.csv,True
+lever,研究1b/oringinaldata/lever presses/后测/音调线索恐惧测试/Excel_GS4/2024_09_21__18_00_07_XIN4Bs.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__15_09_02_XIN1R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__15_09_03_XIN1G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__15_09_04_XIN1B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__15_09_05_XIN4R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__16_21_02_XIN4G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__16_21_03_XIN4B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__16_21_04_XIN2R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__16_21_05_XIN2G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__17_30_02_XIN2B.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__17_30_03_XIN3R.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__17_30_04_XIN3G.csv,True
+lever,研究1b/oringinaldata/lever presses/后测实验前杠杆能力测试/Excel_GS4/2024_09_20__17_30_05_XIN3B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2024_12_26__14_32_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2024_12_26__14_39_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2024_12_26__15_09_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2024_12_26__16_44_07_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2024_12_26__17_18_06_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2024_12_26__17_18_07_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__15_14_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__15_14_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__15_40_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__15_40_07_NO EXT2G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__16_05_06_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__16_05_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__16_32_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__16_32_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__17_00_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__17_00_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day1/Excel_GS4/2025_01_01__17_25_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2024_12_27__14_46_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2024_12_27__14_46_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2024_12_27__15_15_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2024_12_27__16_36_07_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2024_12_27__17_03_06_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2024_12_27__17_03_07_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__15_21_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__15_21_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__15_48_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__15_48_07_NO EXT2G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__16_16_06_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__16_16_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__16_44_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__16_44_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__17_13_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__17_13_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day2/Excel_GS4/2025_01_02__17_38_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2024_12_28__14_20_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2024_12_28__14_20_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2024_12_28__15_06_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2024_12_28__15_06_07_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2024_12_28__15_54_06_NO EXY1G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2024_12_28__15_54_07_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__13_49_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__13_49_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__14_35_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__14_35_07_NO EXT2Gs.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__15_20_06_ NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__15_20_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__16_05_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__16_05_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__16_49_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__16_49_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day3/Excel_GS4/2025_01_04__17_31_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2024_12_29__14_33_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2024_12_29__14_33_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2024_12_29__15_22_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2024_12_29__15_22_07_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2024_12_29__16_10_06_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2024_12_29__16_10_07_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__13_49_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__13_49_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__14_35_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__14_35_07_NO EXT2G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__15_20_06_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__15_20_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__16_05_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__16_05_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__16_49_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__16_49_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/1杠杆训练阶段/day4/Excel_GS4/2025_01_05__17_32_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2024_12_30__14_48_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2024_12_30__14_48_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2024_12_30__15_15_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2024_12_30__15_15_07_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2024_12_30__15_41_06_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2024_12_30__15_41_07_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__14_14_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__14_14_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__14_42_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__14_42_07_NO EXT2G.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__15_09_06_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__15_09_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__15_35_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__15_35_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__16_00_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__16_00_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/2恐惧学习/Excel_GS4/2025_01_06__16_24_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2024_12_31__14_28_06_EXT1R-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2024_12_31__14_28_07_EXT1G-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2024_12_31__15_26_06_EXT1B-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2024_12_31__16_20_07_NO EXT1R-retc.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2024_12_31__17_17_06_NO EXT1G-retc.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2024_12_31__17_17_07_NO EXT1B-retc.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__13_01_06_EXT2R-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__13_01_07_EXT2G-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__13_48_06_NO EXT2B-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__13_48_07_NO EXT2G-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__16_07_06_EXT2B-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__16_07_07_EXT3R-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__16_53_06_NO EXT3R-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__16_53_07_NO EXT3G-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__19_13_06_EXT3G-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__19_13_07_EXT3B-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/提取阶段/Excel_GS4/2025_01_07__20_00_06_NO EXT3B-ret.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_03__19_17_06_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_03__19_17_07_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_03__20_05_06_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_03__20_44_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_03__20_44_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_03__21_22_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__14_00_06_EXT2R-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__14_00_07_EXT2G-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__15_03_06_NO EXT2B-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__15_03_07_NO EXT2G-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__17_06_06_EXT2B-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__17_06_07_EXT3R-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__18_11_06_NO EXT3R-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__18_11_07_NO EXT3G-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__20_10_06_EXT3G-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__20_10_07_EXT3B-ext.csv,True
+lever,研究2/orginal data/lever presses/3初次消退/提取-消退/消退训练阶段/Excel_GS4/2025_01_07__21_13_06_NO EXT3B-ext.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_02__14_26_06_EXT1B renewal.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_02__14_26_07_NO EXT1R renewal.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_02__14_42_06_EXT1Rs renewal.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_02__14_42_07_EXT1Gs renewal.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_02__14_56_06_NO EXT1Grenewal.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_02__14_56_07_NO EXT1Brenewal.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__14_57_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__14_57_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__15_14_06_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__15_14_07_NO EXT2G.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__15_31_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__15_31_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__15_48_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__15_48_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__16_04_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__16_04_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/5renewal（续新测试）/Excel_GS4/2025_01_09__16_20_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_03__19_17_06_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_03__19_17_07_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_03__20_05_06_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_03__20_44_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_03__20_44_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_03__21_22_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__14_19_06_NO EX2G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__14_19_07_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__15_02_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__15_02_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__15_39_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__16_18_06_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__16_18_07_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__16_56_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__16_56_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__17_33_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day1/Excel_GS4/2025_01_10__17_33_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_04__19_11_06_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_04__19_11_07_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_04__19_55_06_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_04__20_33_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_04__20_33_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_04__21_12_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__14_36_06_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__14_36_07_NO EXT2G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__15_15_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__15_15_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__15_53_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__16_33_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__16_33_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__17_15_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__17_15_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__17_55_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day2/Excel_GS4/2025_01_11__17_55_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_05__19_34_06_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_05__19_34_07_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_05__20_11_06_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_05__20_50_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_05__20_50_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_05__21_28_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__14_24_06_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__14_24_07_NO EXT2G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__15_04_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__15_04_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__15_45_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__16_26_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__16_26_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__17_05_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__17_05_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__17_46_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/6再次消退/day3/Excel_GS4/2025_01_12__17_46_07_EXT3B.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_06__20_15_06_EXT1R.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_06__20_15_07_EXT1G.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_06__20_35_06_EXT1B.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_06__20_35_07_NO EXT1R.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_06__20_55_06_NO EXT1B.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_06__20_55_07_NO EXT1G.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__14_08_06_NO EXT2B.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__14_08_07_NO EXT2G.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__14_27_06_NO EXT3R.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__14_27_07_NO EXT3G.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__14_46_06_NO EXT3B.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__15_03_06_EXT2R.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__15_03_07_EXT2G.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__15_22_06_EXT2B.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__15_22_07_EXT3R.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__15_40_06_EXT3G.csv,True
+lever,研究2/orginal data/lever presses/7LTM2（再次消退测试）/Excel_GS4/2025_01_13__15_40_07_EXT3B.csv,True
+boli,研究2/data analysis and graph/[1-3]boli_研究2.xlsx,True

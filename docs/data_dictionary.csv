@@ -1,0 +1,20 @@
+variable,description
+study,"Study identifier; stored as string (e.g., 1a, 1b, 2)."
+subject_id,Individual rat identifier reconstructed from source files.
+session_name,Session or test label standardized across experiments.
+time_bin_start_s,Start time of 5-second bin in seconds.
+time_bin_end_s,End time of 5-second bin in seconds.
+usv22_call_count_5s,Number of 22-kHz ultrasonic vocalization calls in this 5-second bin. Event-derived; 0 means recorded/no event.
+usv50_call_count_5s,Number of 50-kHz ultrasonic vocalization calls in this 5-second bin. Event-derived; 0 means recorded/no event.
+leverpress_count_5s,Integer lever-press count reconstructed from Graphic State Notation CSV event logs. Event-derived; 0 means recorded/no press.
+freezing_pct_5s,"FreezeFrame-derived percent freezing for this 5-second bin. Dense time-series; 0 means 0% freezing, NaN means missing/not recorded."
+boli_count_session,"Session-level fecal boli count when structured logs are available; primarily Study 2. Use as external validation/covariate, not primary 5-s emission."
+usv_recorded,Whether USV modality was recorded for the subject-session.
+lever_recorded,Whether lever modality was recorded for the subject-session.
+freezing_recorded,Whether freezing modality was recorded for the subject-session.
+boli_recorded,Whether structured boli value is available for the subject-session.
+group_guess,Group label inferred from source metadata when available.
+context_guess,Context metadata inferred from session/protocol; use cautiously for modeling.
+cs_type_guess,Stimulus type metadata inferred from session/protocol; use cautiously for modeling.
+four_channel_available,Original availability flag retained from reconstruction pipeline.
+four_channel_complete,"Recalculated flag: TRUE iff USV22, USV50, lever, and freezing are all non-missing in the row. This is the primary complete-case indicator for four-channel HMM analyses."

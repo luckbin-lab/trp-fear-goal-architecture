@@ -1,0 +1,29 @@
+{
+  "all_rows": 74164,
+  "primary_complete_four_channel_rows": 47004,
+  "subjects_primary": 29,
+  "subject_sessions_primary": 213,
+  "rows_flagged_four_channel_available_original": 48241,
+  "rows_with_original_flag_but_missing_any_channel": 1237,
+  "columns": [
+    "study",
+    "subject_id",
+    "session_name",
+    "time_bin_start_s",
+    "time_bin_end_s",
+    "usv22_call_count_5s",
+    "usv50_call_count_5s",
+    "leverpress_count_5s",
+    "freezing_pct_5s",
+    "boli_count_session",
+    "usv_recorded",
+    "lever_recorded",
+    "freezing_recorded",
+    "boli_recorded",
+    "group_guess",
+    "context_guess",
+    "cs_type_guess",
+    "four_channel_available",
+    "four_channel_complete"
+  ]
+}

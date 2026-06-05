@@ -1,0 +1,5 @@
+state,mean_usv22,mean_usv50,mean_lever,mean_freezing_pct,spearman_rho_boli,spearman_p_boli,interpretation,boli_association
+0,0.0,2.0171,0.0,22.45,0.0876,0.321604,Social/Appetitive (USV50),positive
+1,0.0,0.0,0.0,34.49,-0.2564,0.003234,Quiescent/Baseline,negative
+2,2.3271,0.7897,0.0,67.76,0.3348,9.9e-05,High-fear (freezing + USV22),positive
+3,0.0127,0.1313,1.0041,31.8,-0.3374,8.7e-05,Active/Lever-pressing,negative

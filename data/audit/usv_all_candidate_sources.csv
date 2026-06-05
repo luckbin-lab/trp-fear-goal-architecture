@@ -1,0 +1,473 @@
+source_filepath,n_raw_rows,subject_id,session_name,band,error,study,score,n_raw_rows_filled
+研究1a/oringinaldata/22kHz Matlab export/cue test/Xin1Bcue 2024-04-26  1_46 PM_Stats.xlsx,274.0,XIN1B,cue_test,22,,1a,15,274.0
+研究1a/oringinaldata/22kHz Matlab export/cue test/Xin1Gcue 2024-04-26  1_47 PM_Stats.xlsx,102.0,XIN1G,cue_test,22,,1a,15,102.0
+研究1a/oringinaldata/22kHz Matlab export/cue test/Xin1Rcue 2024-04-26  1_48 PM_Stats.xlsx,230.0,XIN1R,cue_test,22,,1a,15,230.0
+研究1a/oringinaldata/22kHz Matlab export/cue test/Xin4Bcue 2024-04-26  1_49 PM_Stats.xlsx,80.0,XIN4B,cue_test,22,,1a,15,80.0
+研究1a/oringinaldata/22kHz Matlab export/cue test/Xin4Rcue 2024-04-26  1_51 PM_Stats.xlsx,30.0,XIN4R,cue_test,22,,1a,15,30.0
+研究1a/oringinaldata/22kHz Matlab export/generalization 5kHz/Xin1G5k 2024-04-29  7_04 PM_Stats.xlsx,8.0,XIN1G,generalization_5k,22,,1a,15,8.0
+研究1a/oringinaldata/22kHz Matlab export/generalization 5kHz/Xin1R5k 2024-04-29  6_46 PM_Stats.xlsx,27.0,XIN1R,generalization_5k,22,,1a,15,27.0
+研究1a/oringinaldata/22kHz Matlab export/generalization 7kHz/Xin1B7k 2024-04-28  6_36 PM_Stats.xlsx,128.0,XIN1B,generalization_7k,22,,1a,15,128.0
+研究1a/oringinaldata/22kHz Matlab export/generalization 7kHz/Xin1G7k 2024-04-28  6_37 PM_Stats.xlsx,137.0,XIN1G,generalization_7k,22,,1a,15,137.0
+研究1a/oringinaldata/22kHz Matlab export/generalization 7kHz/Xin1R7k 2024-04-28  6_38 PM_Stats.xlsx,152.0,XIN1R,generalization_7k,22,,1a,15,152.0
+研究1a/oringinaldata/22kHz Matlab export/learning/Xin1Bcue 2024-04-26  1_46 PM_Stats.xlsx,274.0,XIN1B,cue_test,22,,1a,-30,274.0
+研究1a/oringinaldata/22kHz Matlab export/learning/Xin1Gcue 2024-04-26  1_47 PM_Stats.xlsx,103.0,XIN1G,cue_test,22,,1a,-30,103.0
+研究1a/oringinaldata/22kHz Matlab export/learning/Xin1Rcue 2024-04-26  1_48 PM_Stats.xlsx,231.0,XIN1R,cue_test,22,,1a,-30,231.0
+研究1a/oringinaldata/22kHz Matlab export/learning/Xin4Bcue 2024-04-26  1_49 PM_Stats.xlsx,81.0,XIN4B,cue_test,22,,1a,-30,81.0
+研究1a/oringinaldata/22kHz Matlab export/learning/Xin4Rcue 2024-04-26  1_51 PM_Stats.xlsx,31.0,XIN4R,cue_test,22,,1a,-30,31.0
+研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin1Blearn 2024-04-25  4_28 PM_Stats.xlsx,142.0,XIN1B,learning,22,,1a,15,142.0
+研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin1Glearn 2024-04-25  7_08 PM_Stats.xlsx,137.0,XIN1G,learning,22,,1a,15,137.0
+研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin4Blearn 2024-04-25  7_12 PM_Stats.xlsx,118.0,XIN4B,learning,22,,1a,15,118.0
+研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin4Glearn 2024-04-25  7_14 PM_Stats.xlsx,194.0,XIN4G,learning,22,,1a,15,194.0
+研究1a/oringinaldata/22kHz Matlab export/learning/learn/Xin4Rlearn 2024-04-25  7_16 PM_Stats.xlsx,63.0,XIN4R,learning,22,,1a,15,63.0
+研究1a/oringinaldata/22kHz Matlab export/retest/Xin1Bre 2024-09-06 12_19 PM_Stats.xlsx,9.0,XIN1B,retest_cue,22,,1a,15,9.0
+研究1a/oringinaldata/22kHz Matlab export/retest/Xin1Rre 2024-09-06 12_12 PM_Stats.xlsx,74.0,XIN1R,retest_cue,22,,1a,15,74.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin1Bcontext 2024-04-29  8_41 PM_Stats.xlsx,90.0,XIN1B,contextual_test,50,,1a,15,90.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin1Gcontext 2024-04-29  8_21 PM_Stats.xlsx,1.0,XIN1G,contextual_test,50,,1a,15,1.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin1Rcontext 2024-04-29  8_07 PM_Stats.xlsx,10.0,XIN1R,contextual_test,50,,1a,15,10.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin2Bcontext 2024-04-29  9_19 PM_Stats.xlsx,114.0,XIN2B,contextual_test,50,,1a,15,114.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin2Gcontext 2024-04-29  9_04 PM_Stats.xlsx,2.0,XIN2G,contextual_test,50,,1a,15,2.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin2Rcontext 2024-04-29  8_46 PM_Stats.xlsx,135.0,XIN2R,contextual_test,50,,1a,15,135.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin3Bcontext 2024-04-30  2_08 PM_Stats.xlsx,13.0,XIN3B,contextual_test,50,,1a,15,13.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin3Gcontext 2024-04-30  2_08 PM_Stats.xlsx,78.0,XIN3G,contextual_test,50,,1a,15,78.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin3Rcontext 2024-04-29  9_27 PM_Stats.xlsx,111.0,XIN3R,contextual_test,50,,1a,15,111.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin4Bcontext 2024-04-29  9_59 PM_Stats.xlsx,17.0,XIN4B,contextual_test,50,,1a,15,17.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin4Gcontext 2024-04-29  9_48 PM_Stats.xlsx,68.0,XIN4G,contextual_test,50,,1a,15,68.0
+研究1a/oringinaldata/50kHz Matlab export/context/Xin4Rcontext 2024-04-29  9_39 PM_Stats.xlsx,2.0,XIN4R,contextual_test,50,,1a,15,2.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin1Bcue 2024-04-30 10_21 AM_Stats.xlsx,8.0,XIN1B,cue_test,50,,1a,15,8.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin1Gcue 2024-04-30 10_09 AM_Stats.xlsx,8.0,XIN1G,cue_test,50,,1a,15,8.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin1Rcue 2024-04-30  9_49 AM_Stats.xlsx,13.0,XIN1R,cue_test,50,,1a,15,13.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin2Bcue 2024-04-30 10_44 AM_Stats.xlsx,19.0,XIN2B,cue_test,50,,1a,15,19.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin2Gcue 2024-04-30 10_41 AM_Stats.xlsx,2.0,XIN2G,cue_test,50,,1a,15,2.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin2Rcue 2024-04-30 10_27 AM_Stats.xlsx,106.0,XIN2R,cue_test,50,,1a,15,106.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin3Bcue 2024-04-30 11_05 AM_Stats.xlsx,11.0,XIN3B,cue_test,50,,1a,15,11.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin3Gcue 2024-04-30 10_57 AM_Stats.xlsx,50.0,XIN3G,cue_test,50,,1a,15,50.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin3Rcue 2024-04-30 10_49 AM_Stats.xlsx,12.0,XIN3R,cue_test,50,,1a,15,12.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin4Bcue 2024-04-30 11_25 AM_Stats.xlsx,11.0,XIN4B,cue_test,50,,1a,15,11.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin4Gcue 2024-04-30 11_16 AM_Stats.xlsx,13.0,XIN4G,cue_test,50,,1a,15,13.0
+研究1a/oringinaldata/50kHz Matlab export/cue test/Xin4Rcue 2024-04-30 11_11 AM_Stats.xlsx,6.0,XIN4R,cue_test,50,,1a,15,6.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin1B5k 2024-04-30  9_54 AM_Stats.xlsx,9.0,XIN1B,generalization_5k,50,,1a,15,9.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin1G5k 2024-04-30 10_04 AM_Stats.xlsx,30.0,XIN1G,generalization_5k,50,,1a,15,30.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin1R5k 2024-04-30  9_55 AM_Stats.xlsx,10.0,XIN1R,generalization_5k,50,,1a,15,10.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin2B5k 2024-04-30 10_28 AM_Stats.xlsx,215.0,XIN2B,generalization_5k,50,,1a,15,215.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin2G5k 2024-04-30  9_56 AM_Stats.xlsx,2.0,XIN2G,generalization_5k,50,,1a,15,2.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin2R5k 2024-04-30 10_15 AM_Stats.xlsx,134.0,XIN2R,generalization_5k,50,,1a,15,134.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin3B5k 2024-04-30 11_02 AM_Stats.xlsx,3.0,XIN3B,generalization_5k,50,,1a,15,3.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin3G5k 2024-04-30 10_56 AM_Stats.xlsx,69.0,XIN3G,generalization_5k,50,,1a,15,69.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin3R5k 2024-04-30 10_49 AM_Stats.xlsx,76.0,XIN3R,generalization_5k,50,,1a,15,76.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin4B5k 2024-04-30 11_14 AM_Stats.xlsx,3.0,XIN4B,generalization_5k,50,,1a,15,3.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin4G5k 2024-04-30 11_07 AM_Stats.xlsx,66.0,XIN4G,generalization_5k,50,,1a,15,66.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 5kHz/Xin4R5k 2024-04-30  9_58 AM_Stats.xlsx,8.0,XIN4R,generalization_5k,50,,1a,15,8.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin1B7k 2024-04-29 11_17 PM_Stats.xlsx,12.0,XIN1B,generalization_7k,50,,1a,15,12.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin1G7k 2024-04-29 11_18 PM_Stats.xlsx,32.0,XIN1G,generalization_7k,50,,1a,15,32.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin1R7k 2024-04-29 11_19 PM_Stats.xlsx,19.0,XIN1R,generalization_7k,50,,1a,15,19.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin2B7k 2024-04-30 12_14 AM_Stats.xlsx,14.0,XIN2B,generalization_7k,50,,1a,15,14.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin2G7k 2024-04-30 12_14 AM_Stats.xlsx,10.0,XIN2G,generalization_7k,50,,1a,15,10.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin2R7k 2024-04-30 12_05 AM_Stats.xlsx,105.0,XIN2R,generalization_7k,50,,1a,15,105.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin3B7k 2024-04-30 12_14 AM_Stats.xlsx,6.0,XIN3B,generalization_7k,50,,1a,15,6.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin3G7k 2024-04-30 12_15 AM_Stats.xlsx,65.0,XIN3G,generalization_7k,50,,1a,15,65.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin3R7k 2024-04-30 12_15 AM_Stats.xlsx,8.0,XIN3R,generalization_7k,50,,1a,15,8.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin4B7k 2024-04-30 12_16 AM_Stats.xlsx,13.0,XIN4B,generalization_7k,50,,1a,15,13.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin4G7k 2024-04-30 12_16 AM_Stats.xlsx,18.0,XIN4G,generalization_7k,50,,1a,15,18.0
+研究1a/oringinaldata/50kHz Matlab export/generalization 7kHz/Xin4R7k 2024-04-30 12_17 AM_Stats.xlsx,8.0,XIN4R,generalization_7k,50,,1a,15,8.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin1Blearn 2024-04-29  8_34 PM_Stats.xlsx,133.0,XIN1B,learning,50,,1a,0,133.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin1Glearn 2024-04-29  8_28 PM_Stats.xlsx,31.0,XIN1G,learning,50,,1a,0,31.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin1Rlearn 2024-04-29  8_06 PM_Stats.xlsx,96.0,XIN1R,learning,50,,1a,0,96.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin2Bcontrol 2024-04-29  8_55 PM_Stats.xlsx,32.0,XIN2B,learning,50,,1a,0,32.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin2Gcontrol 2024-04-29  8_52 PM_Stats.xlsx,6.0,XIN2G,learning,50,,1a,0,6.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin2Rcontrol 2024-04-29  8_47 PM_Stats.xlsx,211.0,XIN2R,learning,50,,1a,0,211.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin3Bcontrol 2024-04-29  9_33 PM_Stats.xlsx,36.0,XIN3B,learning,50,,1a,0,36.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin3Gcontrol 2024-04-29  9_21 PM_Stats.xlsx,121.0,XIN3G,learning,50,,1a,0,121.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin3Rcontrol 2024-04-29  9_08 PM_Stats.xlsx,139.0,XIN3R,learning,50,,1a,0,139.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin4Blearn 2024-04-29  9_58 PM_Stats.xlsx,45.0,XIN4B,learning,50,,1a,0,45.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin4Glearn 2024-04-29  9_44 PM_Stats.xlsx,167.0,XIN4G,learning,50,,1a,0,167.0
+研究1a/oringinaldata/50kHz Matlab export/learning/Xin4Rlearn 2024-04-29  9_39 PM_Stats.xlsx,31.0,XIN4R,learning,50,,1a,0,31.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin1Bre 2024-09-05  4_54 PM_Stats.xlsx,43.0,XIN1B,retest_cue,50,,1a,15,43.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin1Gre 2024-09-05  4_48 PM_Stats.xlsx,22.0,XIN1G,retest_cue,50,,1a,15,22.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin1Rre 2024-09-05  4_40 PM_Stats.xlsx,32.0,XIN1R,retest_cue,50,,1a,15,32.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin2Bre 2024-09-05  5_30 PM_Stats.xlsx,170.0,XIN2B,retest_cue,50,,1a,15,170.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin2Rre 2024-09-05  5_04 PM_Stats.xlsx,116.0,XIN2R,retest_cue,50,,1a,15,116.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin3Bre 2024-09-06 10_48 AM_Stats.xlsx,16.0,XIN3B,retest_cue,50,,1a,15,16.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin3Gre 2024-09-06 10_41 AM_Stats.xlsx,35.0,XIN3G,retest_cue,50,,1a,15,35.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin3Rre 2024-09-05 10_01 PM_Stats.xlsx,100.0,XIN3R,retest_cue,50,,1a,15,100.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin4Bre 2024-09-06 11_06 AM_Stats.xlsx,17.0,XIN4B,retest_cue,50,,1a,15,17.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin4Gre 2024-09-06 11_01 AM_Stats.xlsx,47.0,XIN4G,retest_cue,50,,1a,15,47.0
+研究1a/oringinaldata/50kHz Matlab export/retest/Xin4Rre 2024-09-06 10_53 AM_Stats.xlsx,15.0,XIN4R,retest_cue,50,,1a,15,15.0
+研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin1Bcue 2024-04-26  1_46 PM_Stats.xlsx,274.0,XIN1B,pretest_cue,22,,1b,0,274.0
+研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin1Gcue 2024-04-26  1_47 PM_Stats.xlsx,102.0,XIN1G,pretest_cue,22,,1b,0,102.0
+研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin1Rcue 2024-04-26  1_48 PM_Stats.xlsx,230.0,XIN1R,pretest_cue,22,,1b,0,230.0
+研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin4Bcue 2024-04-26  1_49 PM_Stats.xlsx,80.0,XIN4B,pretest_cue,22,,1b,0,80.0
+研究1b/oringinaldata/22kHz USVs/cue test/前测/Xin4Rcue 2024-04-26  1_51 PM_Stats.xlsx,30.0,XIN4R,pretest_cue,22,,1b,0,30.0
+研究1b/oringinaldata/22kHz USVs/cue test/后测/xin1Gcue2 2024-09-21  9_59 PM_Stats.xlsx,12.0,XIN1G,retest_cue,22,,1b,0,12.0
+研究1b/oringinaldata/22kHz USVs/cue test/后测/xin1Rcue2 2024-09-21  9_45 PM_Stats.xlsx,153.0,XIN1R,retest_cue,22,,1b,0,153.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin1Bcontext 2024-04-29  8_41 PM_Stats.xlsx,90.0,XIN1B,pretest_contextual,50,,1b,0,90.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin1Gcontext 2024-04-29  8_21 PM_Stats.xlsx,1.0,XIN1G,pretest_contextual,50,,1b,0,1.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin1Rcontext 2024-04-29  8_07 PM_Stats.xlsx,10.0,XIN1R,pretest_contextual,50,,1b,0,10.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin2Bcontext 2024-04-29  9_19 PM_Stats.xlsx,114.0,XIN2B,pretest_contextual,50,,1b,0,114.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin2Gcontext 2024-04-29  9_04 PM_Stats.xlsx,2.0,XIN2G,pretest_contextual,50,,1b,0,2.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin2Rcontext 2024-04-29  8_46 PM_Stats.xlsx,135.0,XIN2R,pretest_contextual,50,,1b,0,135.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin3Bcontext 2024-04-30  2_08 PM_Stats.xlsx,13.0,XIN3B,pretest_contextual,50,,1b,0,13.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin3Gcontext 2024-04-30  2_08 PM_Stats.xlsx,78.0,XIN3G,pretest_contextual,50,,1b,0,78.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin3Rcontext 2024-04-29  9_27 PM_Stats.xlsx,111.0,XIN3R,pretest_contextual,50,,1b,0,111.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin4Bcontext 2024-04-29  9_59 PM_Stats.xlsx,17.0,XIN4B,pretest_contextual,50,,1b,0,17.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin4Gcontext 2024-04-29  9_48 PM_Stats.xlsx,68.0,XIN4G,pretest_contextual,50,,1b,0,68.0
+研究1b/oringinaldata/50kHz USVs/contextual test/前测/Xin4Rcontext 2024-04-29  9_39 PM_Stats.xlsx,2.0,XIN4R,pretest_contextual,50,,1b,0,2.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin1Bcontext2 2024-09-23  7_14 PM_Stats.xlsx,18.0,XIN1B,retest_contextual,50,,1b,0,18.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin1Gcontex2 2024-09-23  7_29 PM_Stats.xlsx,14.0,XIN1G,retest_contextual,50,,1b,0,14.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin1Rcontext2 2024-09-23  7_37 PM_Stats.xlsx,89.0,XIN1R,retest_contextual,50,,1b,0,89.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin2Bcontext2 2024-09-23  7_48 PM_Stats.xlsx,18.0,XIN2B,retest_contextual,50,,1b,0,18.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin2Gcontex2 2024-09-23  7_52 PM_Stats.xlsx,7.0,XIN2G,retest_contextual,50,,1b,0,7.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin2Rcontext2 2024-09-23  7_58 PM_Stats.xlsx,173.0,XIN2R,retest_contextual,50,,1b,0,173.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin3Bcontex2 2024-09-23  8_20 PM_Stats.xlsx,89.0,XIN3B,retest_contextual,50,,1b,0,89.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin3Gcontext2 2024-09-23  8_32 PM_Stats.xlsx,247.0,XIN3G,retest_contextual,50,,1b,0,247.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin3Rcontex2 2024-09-23  8_48 PM_Stats.xlsx,199.0,XIN3R,retest_contextual,50,,1b,0,199.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin4Bcontex2 2024-09-23  8_59 PM_Stats.xlsx,96.0,XIN4B,retest_contextual,50,,1b,0,96.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin4Gcontext2 2024-09-23  9_07 PM_Stats.xlsx,146.0,XIN4G,retest_contextual,50,,1b,0,146.0
+研究1b/oringinaldata/50kHz USVs/contextual test/后测/Xin4Rcontex2 2024-09-23  9_16 PM_Stats.xlsx,69.0,XIN4R,retest_contextual,50,,1b,0,69.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin1Bcue 2024-04-30 10_21 AM_Stats.xlsx,8.0,XIN1B,pretest_cue,50,,1b,0,8.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin1Gcue 2024-04-30 10_09 AM_Stats.xlsx,8.0,XIN1G,pretest_cue,50,,1b,0,8.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin1Rcue 2024-04-30  9_49 AM_Stats.xlsx,13.0,XIN1R,pretest_cue,50,,1b,0,13.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin2Bcue 2024-04-30 10_44 AM_Stats.xlsx,19.0,XIN2B,pretest_cue,50,,1b,0,19.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin2Gcue 2024-04-30 10_41 AM_Stats.xlsx,2.0,XIN2G,pretest_cue,50,,1b,0,2.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin2Rcue 2024-04-30 10_27 AM_Stats.xlsx,106.0,XIN2R,pretest_cue,50,,1b,0,106.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin3Bcue 2024-04-30 11_05 AM_Stats.xlsx,11.0,XIN3B,pretest_cue,50,,1b,0,11.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin3Gcue 2024-04-30 10_57 AM_Stats.xlsx,50.0,XIN3G,pretest_cue,50,,1b,0,50.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin3Rcue 2024-04-30 10_49 AM_Stats.xlsx,12.0,XIN3R,pretest_cue,50,,1b,0,12.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin4Bcue 2024-04-30 11_25 AM_Stats.xlsx,11.0,XIN4B,pretest_cue,50,,1b,0,11.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin4Gcue 2024-04-30 11_16 AM_Stats.xlsx,13.0,XIN4G,pretest_cue,50,,1b,0,13.0
+研究1b/oringinaldata/50kHz USVs/cue test/前测/Xin4Rcue 2024-04-30 11_11 AM_Stats.xlsx,6.0,XIN4R,pretest_cue,50,,1b,0,6.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin1Bcue2 2024-09-23  8_11 PM_Stats.xlsx,7.0,XIN1B,retest_cue,50,,1b,0,7.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin1Gcue2 2024-09-23  7_42 PM_Stats.xlsx,25.0,XIN1G,retest_cue,50,,1b,0,25.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin1Rcue2 2024-09-23  8_01 PM_Stats.xlsx,18.0,XIN1R,retest_cue,50,,1b,0,18.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin2Bcue2s 2024-09-23  9_32 PM_Stats.xlsx,51.0,XIN2B,retest_cue,50,,1b,0,51.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin2Gcue2 2024-09-23  8_15 PM_Stats.xlsx,22.0,XIN2G,retest_cue,50,,1b,0,22.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin2Rcue2s 2024-09-23  9_02 PM_Stats.xlsx,487.0,XIN2R,retest_cue,50,,1b,0,487.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin3Bcue2 2024-09-23  8_28 PM_Stats.xlsx,10.0,XIN3B,retest_cue,50,,1b,0,10.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin3Gcue2s 2024-09-23  9_38 PM_Stats.xlsx,225.0,XIN3G,retest_cue,50,,1b,0,225.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin3Rcue2 2024-09-23  8_24 PM_Stats.xlsx,10.0,XIN3R,retest_cue,50,,1b,0,10.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin4Bscue2 2024-09-23  8_38 PM_Stats.xlsx,11.0,XIN4B,retest_cue,50,,1b,0,11.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin4Gcue2 2024-09-23  8_44 PM_Stats.xlsx,114.0,XIN4G,retest_cue,50,,1b,0,114.0
+研究1b/oringinaldata/50kHz USVs/cue test/后测/xin4Rcue2 2024-09-23  8_32 PM_Stats.xlsx,6.0,XIN4R,retest_cue,50,,1b,0,6.0
+研究2/orginal data/22kHz USVs/1learn/EXT1B 2024-12-31 12_03 AM_Stats.xlsx,202.0,EXT1B,learning,22,,2,15,202.0
+研究2/orginal data/22kHz USVs/1learn/EXT1G 2024-12-30  9_52 PM_Stats.xlsx,243.0,EXT1G,learning,22,,2,15,243.0
+研究2/orginal data/22kHz USVs/1learn/EXT1R 2024-12-30  9_38 PM_Stats.xlsx,43.0,EXT1R,learning,22,,2,15,43.0
+研究2/orginal data/22kHz USVs/1learn/EXT2B 2025-01-08  9_03 PM_Stats.xlsx,235.0,EXT2B,learning,22,,2,15,235.0
+研究2/orginal data/22kHz USVs/1learn/EXT2G 2025-01-08 11_59 PM_Stats.xlsx,70.0,EXT2G,learning,22,,2,15,70.0
+研究2/orginal data/22kHz USVs/1learn/EXT2R 2025-01-08  9_26 PM_Stats.xlsx,70.0,EXT2R,learning,22,,2,15,70.0
+研究2/orginal data/22kHz USVs/1learn/EXT3B 2025-01-07  8_21 PM_Stats.xlsx,80.0,EXT3B,learning,22,,2,15,80.0
+研究2/orginal data/22kHz USVs/1learn/EXT3G 2025-01-07  8_39 PM_Stats.xlsx,357.0,EXT3G,learning,22,,2,15,357.0
+研究2/orginal data/22kHz USVs/1learn/EXT3R 2025-01-07  9_07 PM_Stats.xlsx,244.0,EXT3R,learning,22,,2,15,244.0
+研究2/orginal data/22kHz USVs/1learn/NO EXT1B 2024-12-31 12_23 AM_Stats.xlsx,301.0,NOEXT1B,learning,22,,2,15,301.0
+研究2/orginal data/22kHz USVs/1learn/NO EXT1G 2024-12-31 12_18 AM_Stats.xlsx,78.0,NOEXT1G,learning,22,,2,15,78.0
+研究2/orginal data/22kHz USVs/1learn/NO EXT1R 2024-12-30 11_36 PM_Stats.xlsx,220.0,NOEXT1R,learning,22,,2,15,220.0
+研究2/orginal data/22kHz USVs/1learn/NO EXT2B 2025-01-08 11_25 PM_Stats.xlsx,260.0,NOEXT2B,learning,22,,2,15,260.0
+研究2/orginal data/22kHz USVs/1learn/NO EXT2G 2025-01-09 12_05 AM_Stats.xlsx,195.0,NOEXT2G,learning,22,,2,15,195.0
+研究2/orginal data/22kHz USVs/1learn/NO EXT3G 2025-01-09 12_17 AM_Stats.xlsx,476.0,NOEXT3G,learning,22,,2,15,476.0
+研究2/orginal data/22kHz USVs/1learn/NO EXT3R 2025-01-07 11_28 PM_Stats.xlsx,302.0,NOEXT3R,learning,22,,2,15,302.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT1B 2024-12-31 12_03 AM_Stats.xlsx,200.0,EXT1B,learning,22,,2,35,200.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT1G 2024-12-30  9_52 PM_Stats.xlsx,242.0,EXT1G,learning,22,,2,35,242.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT1R 2024-12-30  9_38 PM_Stats.xlsx,42.0,EXT1R,learning,22,,2,35,42.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT2B 2025-01-08  9_03 PM_Stats.xlsx,233.0,EXT2B,learning,22,,2,35,233.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT2G 2025-01-08 11_59 PM_Stats.xlsx,70.0,EXT2G,learning,22,,2,35,70.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT2R 2025-01-08  9_26 PM_Stats.xlsx,70.0,EXT2R,learning,22,,2,35,70.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT3B 2025-01-07  8_21 PM_Stats.xlsx,80.0,EXT3B,learning,22,,2,35,80.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT3G 2025-01-07  8_39 PM_Stats.xlsx,356.0,EXT3G,learning,22,,2,35,356.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/EXT3R 2025-01-07  9_07 PM_Stats.xlsx,241.0,EXT3R,learning,22,,2,35,241.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT1B 2024-12-31 12_23 AM_Stats.xlsx,300.0,NOEXT1B,learning,22,,2,35,300.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT1G 2024-12-31 12_18 AM_Stats.xlsx,77.0,NOEXT1G,learning,22,,2,35,77.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT1R 2024-12-30 11_36 PM_Stats.xlsx,219.0,NOEXT1R,learning,22,,2,35,219.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT2B 2025-01-08 11_25 PM_Stats.xlsx,257.0,NOEXT2B,learning,22,,2,35,257.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT2G 2025-01-09 12_05 AM_Stats.xlsx,193.0,NOEXT2G,learning,22,,2,35,193.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT3G 2025-01-09 12_17 AM_Stats.xlsx,475.0,NOEXT3G,learning,22,,2,35,475.0
+研究2/orginal data/22kHz USVs/1learn/0223处理_learn/NO EXT3R 2025-01-07 11_28 PM_Stats.xlsx,301.0,NOEXT3R,learning,22,,2,35,301.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT1B-ret 2025-01-01  5_41 PM_Stats.xlsx,61.0,EXT1B,retrieval,22,,2,15,61.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT1G-ret 2024-12-31  5_47 PM_Stats.xlsx,54.0,EXT1G,retrieval,22,,2,15,54.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT1R-ret 2025-01-01  5_38 PM_Stats.xlsx,1.0,EXT1R,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT2B-ret 2025-01-19 11_21 AM_Stats.xlsx,1.0,EXT2B,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT2G-ret 2025-01-19 11_40 AM_Stats.xlsx,1.0,EXT2G,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT2R-ret 2025-01-19  8_51 PM_Stats.xlsx,1.0,EXT2R,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT3B-ret 2025-01-19  9_05 PM_Stats.xlsx,1.0,EXT3B,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT3G-ret 2025-01-19 10_53 PM_Stats.xlsx,71.0,EXT3G,retrieval,22,,2,15,71.0
+研究2/orginal data/22kHz USVs/2retrieve/EXT3R-ret 2025-01-20 11_28 AM_Stats.xlsx,1.0,EXT3R,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/NO EXT1B-retc 2025-02-08  2_42 PM_Stats.xlsx,97.0,NOEXT1B,retrieval,22,,2,15,97.0
+研究2/orginal data/22kHz USVs/2retrieve/NO EXT2B-ret 2025-01-20 11_37 AM_Stats.xlsx,1.0,NOEXT2B,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/NO EXT2G-ret 2025-01-20 11_49 AM_Stats.xlsx,1.0,NOEXT2G,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/NO EXT3B-ret 2025-01-20 11_58 AM_Stats.xlsx,1.0,NOEXT3B,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/NO EXT3G-ret 2025-01-20 12_05 PM_Stats.xlsx,1.0,NOEXT3G,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/NO EXT3R-ret 2025-01-20 12_12 PM_Stats.xlsx,1.0,NOEXT3R,retrieval,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/2retrieve/0223处理_ret/EXT1B-ret 2025-01-01  5_41 PM_Stats.xlsx,62.0,EXT1B,retrieval,22,,2,35,62.0
+研究2/orginal data/22kHz USVs/2retrieve/0223处理_ret/EXT1G-ret 2024-12-31  5_47 PM_Stats.xlsx,55.0,EXT1G,retrieval,22,,2,35,55.0
+研究2/orginal data/22kHz USVs/2retrieve/0223处理_ret/EXT3G-ret 2025-01-19 10_53 PM_Stats.xlsx,72.0,EXT3G,retrieval,22,,2,35,72.0
+研究2/orginal data/22kHz USVs/2retrieve/0223处理_ret/NO EXT1B-retc 2025-02-08  2_42 PM_Stats.xlsx,98.0,NOEXT1B,retrieval,22,,2,35,98.0
+研究2/orginal data/22kHz USVs/3extinction1/EXT1B-ext 2025-01-01  8_45 PM_Stats.xlsx,208.0,EXT1B,extinction1,22,,2,15,208.0
+研究2/orginal data/22kHz USVs/3extinction1/EXT1G-ext 2024-12-31  7_00 PM_Stats.xlsx,255.0,EXT1G,extinction1,22,,2,15,255.0
+研究2/orginal data/22kHz USVs/3extinction1/EXT2B-ext 2025-01-19 11_05 AM_Stats.xlsx,23.0,EXT2B,extinction1,22,,2,15,23.0
+研究2/orginal data/22kHz USVs/3extinction1/EXT2G-ext 2025-01-19 11_26 AM_Stats.xlsx,23.0,EXT2G,extinction1,22,,2,15,23.0
+研究2/orginal data/22kHz USVs/3extinction1/EXT2R-ext 2025-01-19 11_44 AM_Stats.xlsx,329.0,EXT2R,extinction1,22,,2,15,329.0
+研究2/orginal data/22kHz USVs/3extinction1/EXT3B-ext 2025-01-19  8_56 PM_Stats.xlsx,18.0,EXT3B,extinction1,22,,2,15,18.0
+研究2/orginal data/22kHz USVs/3extinction1/EXT3G-ext 2025-01-19  9_09 PM_Stats.xlsx,528.0,EXT3G,extinction1,22,,2,15,528.0
+研究2/orginal data/22kHz USVs/3extinction1/EXT3R-ext 2025-01-20 10_51 AM_Stats.xlsx,393.0,EXT3R,extinction1,22,,2,15,393.0
+研究2/orginal data/22kHz USVs/3extinction1/NO EXT2B-ext 2025-01-20 11_32 AM_Stats.xlsx,18.0,NOEXT2B,extinction1,22,,2,15,18.0
+研究2/orginal data/22kHz USVs/3extinction1/NO EXT2G-ext 2025-01-20 11_42 AM_Stats.xlsx,1.0,NOEXT2G,extinction1,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/3extinction1/NO EXT3B-ext 2025-01-20 11_55 AM_Stats.xlsx,1.0,NOEXT3B,extinction1,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/3extinction1/NO EXT3G-ext 2025-01-20 12_02 PM_Stats.xlsx,1.0,NOEXT3G,extinction1,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/3extinction1/NO EXT3R-ext 2025-01-20 12_09 PM_Stats.xlsx,1.0,NOEXT3R,extinction1,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT1B-ext 2025-01-01  8_45 PM_Stats.xlsx,202.0,EXT1B,extinction1,22,,2,35,202.0
+研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT1G-ext 2024-12-31  7_00 PM_Stats.xlsx,250.0,EXT1G,extinction1,22,,2,35,250.0
+研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT2B-ext 2025-01-19 11_05 AM_Stats.xlsx,14.0,EXT2B,extinction1,22,,2,35,14.0
+研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT2G-ext 2025-01-19 11_26 AM_Stats.xlsx,24.0,EXT2G,extinction1,22,,2,35,24.0
+研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT2R-ext 2025-01-19 11_44 AM_Stats.xlsx,321.0,EXT2R,extinction1,22,,2,35,321.0
+研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT3G-ext 2025-01-19  9_09 PM_Stats.xlsx,524.0,EXT3G,extinction1,22,,2,35,524.0
+研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/EXT3R-ext 2025-01-20 10_51 AM_Stats.xlsx,384.0,EXT3R,extinction1,22,,2,35,384.0
+研究2/orginal data/22kHz USVs/3extinction1/0223处理_ext1/NO EXT2B-ext 2025-01-20 11_32 AM_Stats.xlsx,19.0,NOEXT2B,extinction1,22,,2,35,19.0
+研究2/orginal data/22kHz USVs/4LTM/EXT1B 2025-01-01  5_10 PM_Stats.xlsx,166.0,EXT1B,LTM1,22,,2,15,166.0
+研究2/orginal data/22kHz USVs/4LTM/EXT1G 2025-01-01  4_52 PM_Stats.xlsx,75.0,EXT1G,LTM1,22,,2,15,75.0
+研究2/orginal data/22kHz USVs/4LTM/EXT2B 2025-01-08  9_13 PM_Stats.xlsx,45.0,EXT2B,LTM1,22,,2,15,45.0
+研究2/orginal data/22kHz USVs/4LTM/EXT2G 2025-01-09  3_24 PM_Stats.xlsx,32.0,EXT2G,LTM1,22,,2,15,32.0
+研究2/orginal data/22kHz USVs/4LTM/EXT2R 2025-01-08 11_37 PM_Stats.xlsx,46.0,EXT2R,LTM1,22,,2,15,46.0
+研究2/orginal data/22kHz USVs/4LTM/EXT3B 2025-01-08  9_00 PM_Stats.xlsx,11.0,EXT3B,LTM1,22,,2,15,11.0
+研究2/orginal data/22kHz USVs/4LTM/EXT3G 2025-01-09  3_51 PM_Stats.xlsx,341.0,EXT3G,LTM1,22,,2,15,341.0
+研究2/orginal data/22kHz USVs/4LTM/EXT3R 2025-01-08  9_06 PM_Stats.xlsx,161.0,EXT3R,LTM1,22,,2,15,161.0
+研究2/orginal data/22kHz USVs/4LTM/NO EXT1B 2025-01-01  5_16 PM_Stats.xlsx,178.0,NOEXT1B,LTM1,22,,2,15,178.0
+研究2/orginal data/22kHz USVs/4LTM/NO EXT1R 2025-01-01  4_50 PM_Stats.xlsx,13.0,NOEXT1R,LTM1,22,,2,15,13.0
+研究2/orginal data/22kHz USVs/4LTM/NO EXT2B 2025-01-09  9_20 AM_Stats.xlsx,245.0,NOEXT2B,LTM1,22,,2,15,245.0
+研究2/orginal data/22kHz USVs/4LTM/NO EXT2G 2025-01-08  9_41 PM_Stats.xlsx,128.0,NOEXT2G,LTM1,22,,2,15,128.0
+研究2/orginal data/22kHz USVs/4LTM/NO EXT3B 2025-01-09  9_36 AM_Stats.xlsx,42.0,NOEXT3B,LTM1,22,,2,15,42.0
+研究2/orginal data/22kHz USVs/4LTM/NO EXT3G 2025-01-08  9_50 PM_Stats.xlsx,121.0,NOEXT3G,LTM1,22,,2,15,121.0
+研究2/orginal data/22kHz USVs/4LTM/NO EXT3R 2025-01-09  9_41 AM_Stats.xlsx,91.0,NOEXT3R,LTM1,22,,2,15,91.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT1B 2025-01-01  5_10 PM_Stats.xlsx,166.0,EXT1B,LTM1,22,,2,35,166.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT1G 2025-01-01  4_52 PM_Stats.xlsx,75.0,EXT1G,LTM1,22,,2,35,75.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT2B 2025-01-08  9_13 PM_Stats.xlsx,44.0,EXT2B,LTM1,22,,2,35,44.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT2G 2025-01-09  3_24 PM_Stats.xlsx,30.0,EXT2G,LTM1,22,,2,35,30.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT2R 2025-01-08 11_37 PM_Stats.xlsx,45.0,EXT2R,LTM1,22,,2,35,45.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT3B 2025-01-08  9_00 PM_Stats.xlsx,10.0,EXT3B,LTM1,22,,2,35,10.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT3G 2025-01-09  3_51 PM_Stats.xlsx,339.0,EXT3G,LTM1,22,,2,35,339.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/EXT3R 2025-01-08  9_06 PM_Stats.xlsx,159.0,EXT3R,LTM1,22,,2,35,159.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT1B 2025-01-01  5_16 PM_Stats.xlsx,178.0,NOEXT1B,LTM1,22,,2,35,178.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT1R 2025-01-01  4_50 PM_Stats.xlsx,14.0,NOEXT1R,LTM1,22,,2,35,14.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT2B 2025-01-09  9_20 AM_Stats.xlsx,243.0,NOEXT2B,LTM1,22,,2,35,243.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT2G 2025-01-08  9_41 PM_Stats.xlsx,126.0,NOEXT2G,LTM1,22,,2,35,126.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT3B 2025-01-09  9_36 AM_Stats.xlsx,42.0,NOEXT3B,LTM1,22,,2,35,42.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT3G 2025-01-08  9_50 PM_Stats.xlsx,119.0,NOEXT3G,LTM1,22,,2,35,119.0
+研究2/orginal data/22kHz USVs/4LTM/0223处理/NO EXT3R 2025-01-09  9_41 AM_Stats.xlsx,89.0,NOEXT3R,LTM1,22,,2,35,89.0
+研究2/orginal data/22kHz USVs/5renewal/EXT1Brenewal 2025-01-02  4_47 PM_Stats.xlsx,163.0,EXT1B,renewal,22,,2,15,163.0
+研究2/orginal data/22kHz USVs/5renewal/EXT1G renewal 2025-01-02  4_06 PM_Stats.xlsx,50.0,EXT1G,renewal,22,,2,15,50.0
+研究2/orginal data/22kHz USVs/5renewal/EXT2B 2025-01-09  4_53 PM_Stats.xlsx,66.0,EXT2B,renewal,22,,2,15,66.0
+研究2/orginal data/22kHz USVs/5renewal/EXT2G 2025-01-09  5_05 PM_Stats.xlsx,23.0,EXT2G,renewal,22,,2,15,23.0
+研究2/orginal data/22kHz USVs/5renewal/EXT2R 2025-01-09  4_50 PM_Stats.xlsx,4.0,EXT2R,renewal,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/5renewal/EXT3B 2025-01-09  5_08 PM_Stats.xlsx,8.0,EXT3B,renewal,22,,2,15,8.0
+研究2/orginal data/22kHz USVs/5renewal/EXT3G 2025-01-09  4_59 PM_Stats.xlsx,246.0,EXT3G,renewal,22,,2,15,246.0
+研究2/orginal data/22kHz USVs/5renewal/EXT3R 2025-01-09  5_11 PM_Stats.xlsx,257.0,EXT3R,renewal,22,,2,15,257.0
+研究2/orginal data/22kHz USVs/5renewal/NO EXT1Brenewal 2025-01-02  5_05 PM_Stats.xlsx,195.0,NOEXT1B,renewal,22,,2,15,195.0
+研究2/orginal data/22kHz USVs/5renewal/NO EXT2B 2025-01-09  5_22 PM_Stats.xlsx,134.0,NOEXT2B,renewal,22,,2,15,134.0
+研究2/orginal data/22kHz USVs/5renewal/NO EXT2G 2025-01-09  5_26 PM_Stats.xlsx,102.0,NOEXT2G,renewal,22,,2,15,102.0
+研究2/orginal data/22kHz USVs/5renewal/NO EXT3B 2025-01-09  5_36 PM_Stats.xlsx,4.0,NOEXT3B,renewal,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/5renewal/NO EXT3G 2025-01-09  5_33 PM_Stats.xlsx,7.0,NOEXT3G,renewal,22,,2,15,7.0
+研究2/orginal data/22kHz USVs/5renewal/NO EXT3R 2025-01-09  5_39 PM_Stats.xlsx,4.0,NOEXT3R,renewal,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT1Brenewal 2025-01-02  4_47 PM_Stats.xlsx,163.0,EXT1B,renewal,22,,2,35,163.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT1G renewal 2025-01-02  4_06 PM_Stats.xlsx,50.0,EXT1G,renewal,22,,2,35,50.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT2B 2025-01-09  4_53 PM_Stats.xlsx,64.0,EXT2B,renewal,22,,2,35,64.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT2G 2025-01-09  5_05 PM_Stats.xlsx,21.0,EXT2G,renewal,22,,2,35,21.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT3B 2025-01-09  5_08 PM_Stats.xlsx,7.0,EXT3B,renewal,22,,2,35,7.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT3G 2025-01-09  4_59 PM_Stats.xlsx,244.0,EXT3G,renewal,22,,2,35,244.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/EXT3R 2025-01-09  5_11 PM_Stats.xlsx,255.0,EXT3R,renewal,22,,2,35,255.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/NO EXT1Brenewal 2025-01-02  5_05 PM_Stats.xlsx,195.0,NOEXT1B,renewal,22,,2,35,195.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/NO EXT2B 2025-01-09  5_22 PM_Stats.xlsx,132.0,NOEXT2B,renewal,22,,2,35,132.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/NO EXT2G 2025-01-09  5_26 PM_Stats.xlsx,100.0,NOEXT2G,renewal,22,,2,35,100.0
+研究2/orginal data/22kHz USVs/5renewal/0223处理_renewal/NO EXT3G 2025-01-09  5_33 PM_Stats.xlsx,6.0,NOEXT3G,renewal,22,,2,35,6.0
+研究2/orginal data/22kHz USVs/6extinction2/EXT1B 2025-02-08  3_36 PM_Stats.xlsx,43.0,EXT1B,extinction2,22,,2,15,43.0
+研究2/orginal data/22kHz USVs/6extinction2/EXT2B 2025-01-21  6_52 PM_Stats.xlsx,43.0,EXT2B,extinction2,22,,2,15,43.0
+研究2/orginal data/22kHz USVs/6extinction2/EXT2G 2025-01-21  6_48 PM_Stats.xlsx,10.0,EXT2G,extinction2,22,,2,15,10.0
+研究2/orginal data/22kHz USVs/6extinction2/EXT2R 2025-01-21  6_42 PM_Stats.xlsx,10.0,EXT2R,extinction2,22,,2,15,10.0
+研究2/orginal data/22kHz USVs/6extinction2/EXT3G 2025-01-21  7_07 PM_Stats.xlsx,102.0,EXT3G,extinction2,22,,2,15,102.0
+研究2/orginal data/22kHz USVs/6extinction2/EXT3R 2025-01-21  7_01 PM_Stats.xlsx,43.0,EXT3R,extinction2,22,,2,15,43.0
+研究2/orginal data/22kHz USVs/6extinction2/EXT3R 2025-01-21  7_19 PM_Stats.xlsx,42.0,EXT3R,extinction2,22,,2,15,42.0
+研究2/orginal data/22kHz USVs/6extinction2/NO EXT2Bs 2025-01-21  7_38 PM_Stats.xlsx,1.0,NOEXT2B,extinction2,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/6extinction2/NO EXT2Gs 2025-01-21  7_35 PM_Stats.xlsx,2.0,NOEXT2G,extinction2,22,,2,15,2.0
+研究2/orginal data/22kHz USVs/6extinction2/NO EXT3B 2025-01-21  7_47 PM_Stats.xlsx,0.0,NOEXT3B,extinction2,22,,2,15,0.0
+研究2/orginal data/22kHz USVs/6extinction2/NO EXT3G 2025-01-21  7_51 PM_Stats.xlsx,0.0,NOEXT3G,extinction2,22,,2,15,0.0
+研究2/orginal data/22kHz USVs/6extinction2/NO EXT3R 2025-01-21  7_42 PM_Stats.xlsx,1.0,NOEXT3R,extinction2,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/6extinction2/0223处理/EXT1B 2025-02-08  3_36 PM_Stats.xlsx,35.0,EXT1B,extinction2,22,,2,35,35.0
+研究2/orginal data/22kHz USVs/6extinction2/0223处理/EXT2B 2025-01-21  6_52 PM_Stats.xlsx,44.0,EXT2B,extinction2,22,,2,35,44.0
+研究2/orginal data/22kHz USVs/6extinction2/0223处理/EXT3G 2025-01-21  7_07 PM_Stats.xlsx,103.0,EXT3G,extinction2,22,,2,35,103.0
+研究2/orginal data/22kHz USVs/6extinction2/0223处理/EXT3R 2025-01-21  7_19 PM_Stats.xlsx,40.0,EXT3R,extinction2,22,,2,35,40.0
+研究2/orginal data/22kHz USVs/6extinction2/0223处理/NO EXT2Gs 2025-01-21  7_35 PM_Stats.xlsx,2.0,NOEXT2G,extinction2,22,,2,35,2.0
+研究2/orginal data/22kHz USVs/7extinction3/EXT1B 2025-02-08  4_05 PM_Stats.xlsx,42.0,EXT1B,extinction3,22,,2,15,42.0
+研究2/orginal data/22kHz USVs/7extinction3/EXT1G 2025-02-08  3_57 PM_Stats.xlsx,14.0,EXT1G,extinction3,22,,2,15,14.0
+研究2/orginal data/22kHz USVs/7extinction3/EXT2B 2025-01-23 10_24 PM_Stats.xlsx,10.0,EXT2B,extinction3,22,,2,15,10.0
+研究2/orginal data/22kHz USVs/7extinction3/EXT2G 2025-01-23 10_09 PM_Stats.xlsx,10.0,EXT2G,extinction3,22,,2,15,10.0
+研究2/orginal data/22kHz USVs/7extinction3/EXT2R 2025-01-23 10_01 PM_Stats.xlsx,23.0,EXT2R,extinction3,22,,2,15,23.0
+研究2/orginal data/22kHz USVs/7extinction3/EXT3B 2025-01-23 11_37 PM_Stats.xlsx,17.0,EXT3B,extinction3,22,,2,15,17.0
+研究2/orginal data/22kHz USVs/7extinction3/EXT3G 2025-01-23 10_58 PM_Stats.xlsx,24.0,EXT3G,extinction3,22,,2,15,24.0
+研究2/orginal data/22kHz USVs/7extinction3/EXT3R 2025-01-23 10_32 PM_Stats.xlsx,113.0,EXT3R,extinction3,22,,2,15,113.0
+研究2/orginal data/22kHz USVs/7extinction3/NO EXT1B 2025-02-08  4_16 PM_Stats.xlsx,25.0,NOEXT1B,extinction3,22,,2,15,25.0
+研究2/orginal data/22kHz USVs/7extinction3/NO EXT2B 2025-01-24 12_12 AM_Stats.xlsx,1.0,NOEXT2B,extinction3,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/7extinction3/NO EXT2G 2025-01-23 11_49 PM_Stats.xlsx,1.0,NOEXT2G,extinction3,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/7extinction3/NO EXT3B 2025-01-24 12_27 AM_Stats.xlsx,1.0,NOEXT3B,extinction3,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/7extinction3/NO EXT3G 2025-01-24 12_24 AM_Stats.xlsx,1.0,NOEXT3G,extinction3,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/7extinction3/NO EXT3R 2025-01-24 12_18 AM_Stats.xlsx,1.0,NOEXT3R,extinction3,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT1B 2025-02-08  4_05 PM_Stats.xlsx,43.0,EXT1B,extinction3,22,,2,35,43.0
+研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT1G 2025-02-08  3_57 PM_Stats.xlsx,16.0,EXT1G,extinction3,22,,2,35,16.0
+研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT2R 2025-01-23 10_01 PM_Stats.xlsx,25.0,EXT2R,extinction3,22,,2,35,25.0
+研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT3B 2025-01-23 11_37 PM_Stats.xlsx,18.0,EXT3B,extinction3,22,,2,35,18.0
+研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT3G 2025-01-23 10_58 PM_Stats.xlsx,27.0,EXT3G,extinction3,22,,2,35,27.0
+研究2/orginal data/22kHz USVs/7extinction3/0223处理/EXT3R 2025-01-23 10_32 PM_Stats.xlsx,113.0,EXT3R,extinction3,22,,2,35,113.0
+研究2/orginal data/22kHz USVs/7extinction3/0223处理/NO EXT1B 2025-02-08  4_16 PM_Stats.xlsx,26.0,NOEXT1B,extinction3,22,,2,35,26.0
+研究2/orginal data/22kHz USVs/8extinction4/EXT2B 2025-01-24 12_31 AM_Stats.xlsx,11.0,EXT2B,extinction4,22,,2,15,11.0
+研究2/orginal data/22kHz USVs/8extinction4/EXT2G 2025-01-24 12_33 AM_Stats.xlsx,5.0,EXT2G,extinction4,22,,2,15,5.0
+研究2/orginal data/22kHz USVs/8extinction4/EXT2R 2025-01-24 12_34 AM_Stats.xlsx,1.0,EXT2R,extinction4,22,,2,15,1.0
+研究2/orginal data/22kHz USVs/8extinction4/EXT3B 2025-01-24 12_36 AM_Stats.xlsx,4.0,EXT3B,extinction4,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/8extinction4/EXT3G 2025-01-24 12_38 AM_Stats.xlsx,7.0,EXT3G,extinction4,22,,2,15,7.0
+研究2/orginal data/22kHz USVs/8extinction4/EXT3R 2025-01-24 12_39 AM_Stats.xlsx,9.0,EXT3R,extinction4,22,,2,15,9.0
+研究2/orginal data/22kHz USVs/8extinction4/NO EXT2B 2025-01-24 12_40 AM_Stats.xlsx,6.0,NOEXT2B,extinction4,22,,2,15,6.0
+研究2/orginal data/22kHz USVs/8extinction4/NO EXT2G 2025-01-24 12_42 AM_Stats.xlsx,3.0,NOEXT2G,extinction4,22,,2,15,3.0
+研究2/orginal data/22kHz USVs/8extinction4/NO EXT3B 2025-01-24 12_43 AM_Stats.xlsx,12.0,NOEXT3B,extinction4,22,,2,15,12.0
+研究2/orginal data/22kHz USVs/8extinction4/NO EXT3G 2025-01-24 12_45 AM_Stats.xlsx,11.0,NOEXT3G,extinction4,22,,2,15,11.0
+研究2/orginal data/22kHz USVs/8extinction4/NO EXT3R 2025-01-24 12_46 AM_Stats.xlsx,7.0,NOEXT3R,extinction4,22,,2,15,7.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT1B 2025-02-08  4_35 PM_Stats.xlsx,9.0,EXT1B,LTM2,22,,2,15,9.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT1G 2025-02-08  4_40 PM_Stats.xlsx,4.0,EXT1G,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT1R 2025-02-08  4_44 PM_Stats.xlsx,4.0,EXT1R,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT2B 2025-01-20 10_51 PM_Stats.xlsx,4.0,EXT2B,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT2G 2025-01-20 10_54 PM_Stats.xlsx,4.0,EXT2G,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT2R 2025-01-20 10_58 PM_Stats.xlsx,4.0,EXT2R,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT3B 2025-01-20 11_01 PM_Stats.xlsx,4.0,EXT3B,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT3G 2025-01-20 11_04 PM_Stats.xlsx,4.0,EXT3G,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/EXT3R 2025-01-20 11_08 PM_Stats.xlsx,37.0,EXT3R,LTM2,22,,2,15,37.0
+研究2/orginal data/22kHz USVs/9LTM2/NO EXT1B 2025-02-08  4_47 PM_Stats.xlsx,357.0,NOEXT1B,LTM2,22,,2,15,357.0
+研究2/orginal data/22kHz USVs/9LTM2/NO EXT1G 2025-02-08  4_49 PM_Stats.xlsx,4.0,NOEXT1G,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/NO EXT1R 2025-02-08  4_44 PM_Stats.xlsx,26.0,NOEXT1R,LTM2,22,,2,15,26.0
+研究2/orginal data/22kHz USVs/9LTM2/NO EXT2B 2025-01-20 11_14 PM_Stats.xlsx,219.0,NOEXT2B,LTM2,22,,2,15,219.0
+研究2/orginal data/22kHz USVs/9LTM2/NO EXT2G 2025-01-20 11_35 PM_Stats.xlsx,97.0,NOEXT2G,LTM2,22,,2,15,97.0
+研究2/orginal data/22kHz USVs/9LTM2/NO EXT3B 2025-01-20 11_46 PM_Stats.xlsx,4.0,NOEXT3B,LTM2,22,,2,15,4.0
+研究2/orginal data/22kHz USVs/9LTM2/NO EXT3G 2025-01-20 11_51 PM_Stats.xlsx,117.0,NOEXT3G,LTM2,22,,2,15,117.0
+研究2/orginal data/22kHz USVs/9LTM2/NO EXT3R 2025-01-21 12_03 AM_Stats.xlsx,54.0,NOEXT3R,LTM2,22,,2,15,54.0
+研究2/orginal data/22kHz USVs/9LTM2/0223_LTM2/EXT1B 2025-02-08  4_35 PM_Stats.xlsx,9.0,EXT1B,LTM2,22,,2,15,9.0
+研究2/orginal data/22kHz USVs/9LTM2/0223_LTM2/EXT3R 2025-01-20 11_08 PM_Stats.xlsx,35.0,EXT3R,LTM2,22,,2,15,35.0
+研究2/orginal data/22kHz USVs/9LTM2/0223_LTM2/NO EXT1B 2025-02-08  4_47 PM_Stats.xlsx,355.0,NOEXT1B,LTM2,22,,2,15,355.0
+研究2/orginal data/22kHz USVs/9LTM2/0223_LTM2/NO EXT1R 2025-02-08  4_44 PM_Stats.xlsx,25.0,NOEXT1R,LTM2,22,,2,15,25.0
+研究2/orginal data/22kHz USVs/9LTM2/0223_LTM2/NO EXT2B 2025-01-20 11_14 PM_Stats.xlsx,217.0,NOEXT2B,LTM2,22,,2,15,217.0
+研究2/orginal data/22kHz USVs/9LTM2/0223_LTM2/NO EXT2G 2025-01-20 11_35 PM_Stats.xlsx,95.0,NOEXT2G,LTM2,22,,2,15,95.0
+研究2/orginal data/22kHz USVs/9LTM2/0223_LTM2/NO EXT3G 2025-01-20 11_51 PM_Stats.xlsx,115.0,NOEXT3G,LTM2,22,,2,15,115.0
+研究2/orginal data/22kHz USVs/9LTM2/0223_LTM2/NO EXT3R 2025-01-21 12_03 AM_Stats.xlsx,52.0,NOEXT3R,LTM2,22,,2,15,52.0
+研究2/orginal data/50kHz USVs/1learn/EXT1B 2025-02-16 10_17 PM_Stats.xlsx,566.0,EXT1B,learning,50,,2,15,566.0
+研究2/orginal data/50kHz USVs/1learn/EXT1G 2025-02-16 10_05 PM_Stats.xlsx,514.0,EXT1G,learning,50,,2,15,514.0
+研究2/orginal data/50kHz USVs/1learn/EXT1R 2025-02-16  9_58 PM_Stats.xlsx,66.0,EXT1R,learning,50,,2,15,66.0
+研究2/orginal data/50kHz USVs/1learn/EXT2B 2025-02-05 11_32 PM_Stats.xlsx,652.0,EXT2B,learning,50,,2,15,652.0
+研究2/orginal data/50kHz USVs/1learn/EXT2G 2025-02-05 11_34 PM_Stats.xlsx,162.0,EXT2G,learning,50,,2,15,162.0
+研究2/orginal data/50kHz USVs/1learn/EXT2R 2025-02-05 11_37 PM_Stats.xlsx,410.0,EXT2R,learning,50,,2,15,410.0
+研究2/orginal data/50kHz USVs/1learn/EXT3B 2025-02-05 11_39 PM_Stats.xlsx,219.0,EXT3B,learning,50,,2,15,219.0
+研究2/orginal data/50kHz USVs/1learn/EXT3G 2025-02-05 11_41 PM_Stats.xlsx,325.0,EXT3G,learning,50,,2,15,325.0
+研究2/orginal data/50kHz USVs/1learn/EXT3R 2025-02-05 11_43 PM_Stats.xlsx,780.0,EXT3R,learning,50,,2,15,780.0
+研究2/orginal data/50kHz USVs/1learn/NO EXT1B 2025-02-16 10_42 PM_Stats.xlsx,1280.0,NOEXT1B,learning,50,,2,15,1280.0
+研究2/orginal data/50kHz USVs/1learn/NO EXT1G 2025-02-16 10_32 PM_Stats.xlsx,108.0,NOEXT1G,learning,50,,2,15,108.0
+研究2/orginal data/50kHz USVs/1learn/NO EXT1R 2025-02-16 10_25 PM_Stats.xlsx,305.0,NOEXT1R,learning,50,,2,15,305.0
+研究2/orginal data/50kHz USVs/1learn/NO EXT2B 2025-02-08  5_28 PM_Stats.xlsx,359.0,NOEXT2B,learning,50,,2,15,359.0
+研究2/orginal data/50kHz USVs/1learn/NO EXT2G 2025-02-06 11_56 PM_Stats.xlsx,538.0,NOEXT2G,learning,50,,2,15,538.0
+研究2/orginal data/50kHz USVs/1learn/NO EXT3B 2025-02-05 11_51 PM_Stats.xlsx,41.0,NOEXT3B,learning,50,,2,15,41.0
+研究2/orginal data/50kHz USVs/1learn/NO EXT3G 2025-02-05 11_53 PM_Stats.xlsx,1043.0,NOEXT3G,learning,50,,2,15,1043.0
+研究2/orginal data/50kHz USVs/1learn/NO EXT3R 2025-02-05 11_55 PM_Stats.xlsx,593.0,NOEXT3R,learning,50,,2,15,593.0
+研究2/orginal data/50kHz USVs/2retrieve/EXT1B-ret 2025-02-16 10_54 PM_Stats.xlsx,104.0,EXT1B,retrieval,50,,2,15,104.0
+研究2/orginal data/50kHz USVs/2retrieve/EXT1G-ret 2025-02-16 10_57 PM_Stats.xlsx,82.0,EXT1G,retrieval,50,,2,15,82.0
+研究2/orginal data/50kHz USVs/2retrieve/EXT2B-ret 2025-02-09  6_06 PM_Stats.xlsx,3.0,EXT2B,retrieval,50,,2,15,3.0
+研究2/orginal data/50kHz USVs/2retrieve/EXT2G-ret 2025-02-09  6_29 PM_Stats.xlsx,12.0,EXT2G,retrieval,50,,2,15,12.0
+研究2/orginal data/50kHz USVs/2retrieve/EXT2R-ret 2025-02-09  6_57 PM_Stats.xlsx,2.0,EXT2R,retrieval,50,,2,15,2.0
+研究2/orginal data/50kHz USVs/2retrieve/EXT3B-ret 2025-02-09  7_22 PM_Stats.xlsx,9.0,EXT3B,retrieval,50,,2,15,9.0
+研究2/orginal data/50kHz USVs/2retrieve/NO EXT1G-retc 2025-02-16 11_13 PM_Stats.xlsx,5.0,NOEXT1G,retrieval,50,,2,15,5.0
+研究2/orginal data/50kHz USVs/3extinction1/EXT2B-ext 2025-02-09  6_14 PM_Stats.xlsx,1.0,EXT2B,extinction1,50,,2,15,1.0
+研究2/orginal data/50kHz USVs/3extinction1/EXT2G-ext 2025-02-09  6_38 PM_Stats.xlsx,44.0,EXT2G,extinction1,50,,2,15,44.0
+研究2/orginal data/50kHz USVs/3extinction1/EXT2R-ext 2025-02-09  7_07 PM_Stats.xlsx,9.0,EXT2R,extinction1,50,,2,15,9.0
+研究2/orginal data/50kHz USVs/3extinction1/EXT3B-ext 2025-02-09  8_09 PM_Stats.xlsx,43.0,EXT3B,extinction1,50,,2,15,43.0
+研究2/orginal data/50kHz USVs/3extinction1/EXT3G-ext 2025-02-09 10_16 PM_Stats.xlsx,1.0,EXT3G,extinction1,50,,2,15,1.0
+研究2/orginal data/50kHz USVs/3extinction1/NO EXT1B-extc 2025-02-16 11_46 PM_Stats.xlsx,48.0,NOEXT1B,extinction1,50,,2,15,48.0
+研究2/orginal data/50kHz USVs/3extinction1/NO EXT1G-extc 2025-02-16 11_39 PM_Stats.xlsx,2.0,NOEXT1G,extinction1,50,,2,15,2.0
+研究2/orginal data/50kHz USVs/3extinction1/NO EXT1R-extc 2025-02-16 11_26 PM_Stats.xlsx,4.0,NOEXT1R,extinction1,50,,2,15,4.0
+研究2/orginal data/50kHz USVs/3extinction1/NO EXT3B-ext 2025-02-10 12_17 AM_Stats.xlsx,41.0,NOEXT3B,extinction1,50,,2,15,41.0
+研究2/orginal data/50kHz USVs/3extinction1/NO EXT3R-ext 2025-02-09 11_57 PM_Stats.xlsx,5.0,NOEXT3R,extinction1,50,,2,15,5.0
+研究2/orginal data/50kHz USVs/4LTM/EXT1G 2025-02-17  7_34 PM_Stats.xlsx,88.0,EXT1G,LTM1,50,,2,15,88.0
+研究2/orginal data/50kHz USVs/4LTM/EXT2B 2025-02-06 11_21 PM_Stats.xlsx,126.0,EXT2B,LTM1,50,,2,15,126.0
+研究2/orginal data/50kHz USVs/4LTM/EXT2G 2025-02-06  6_00 PM_Stats.xlsx,58.0,EXT2G,LTM1,50,,2,15,58.0
+研究2/orginal data/50kHz USVs/4LTM/EXT2R 2025-02-06  6_08 PM_Stats.xlsx,11.0,EXT2R,LTM1,50,,2,15,11.0
+研究2/orginal data/50kHz USVs/4LTM/EXT3B 2025-02-06  6_16 PM_Stats.xlsx,13.0,EXT3B,LTM1,50,,2,15,13.0
+研究2/orginal data/50kHz USVs/4LTM/EXT3G 2025-02-06  6_21 PM_Stats.xlsx,304.0,EXT3G,LTM1,50,,2,15,304.0
+研究2/orginal data/50kHz USVs/4LTM/EXT3R 2025-02-06  6_25 PM_Stats.xlsx,158.0,EXT3R,LTM1,50,,2,15,158.0
+研究2/orginal data/50kHz USVs/4LTM/NO EXT1B 2025-02-17  7_41 PM_Stats.xlsx,1044.0,NOEXT1B,LTM1,50,,2,15,1044.0
+研究2/orginal data/50kHz USVs/4LTM/NO EXT1G 2025-02-17  7_39 PM_Stats.xlsx,1.0,NOEXT1G,LTM1,50,,2,15,1.0
+研究2/orginal data/50kHz USVs/4LTM/NO EXT2B 2025-02-10  7_32 PM_Stats.xlsx,409.0,NOEXT2B,LTM1,50,,2,15,409.0
+研究2/orginal data/50kHz USVs/4LTM/NO EXT2G 2025-02-10  7_20 PM_Stats.xlsx,102.0,NOEXT2G,LTM1,50,,2,15,102.0
+研究2/orginal data/50kHz USVs/4LTM/NO EXT3B 2025-02-10  8_31 PM_Stats.xlsx,44.0,NOEXT3B,LTM1,50,,2,15,44.0
+研究2/orginal data/50kHz USVs/4LTM/NO EXT3G 2025-02-10  8_14 PM_Stats.xlsx,71.0,NOEXT3G,LTM1,50,,2,15,71.0
+研究2/orginal data/50kHz USVs/4LTM/NO EXT3R 2025-02-10  8_07 PM_Stats.xlsx,140.0,NOEXT3R,LTM1,50,,2,15,140.0
+研究2/orginal data/50kHz USVs/5renewal/EXT1Brenewal 2025-02-17  7_54 PM_Stats.xlsx,2.0,EXT1B,renewal,50,,2,15,2.0
+研究2/orginal data/50kHz USVs/5renewal/EXT1G renewal 2025-02-17  7_51 PM_Stats.xlsx,110.0,EXT1G,renewal,50,,2,15,110.0
+研究2/orginal data/50kHz USVs/5renewal/EXT1Rrenewal 2025-02-17  7_48 PM_Stats.xlsx,35.0,EXT1R,renewal,50,,2,15,35.0
+研究2/orginal data/50kHz USVs/5renewal/EXT2B 2025-02-10  9_00 PM_Stats.xlsx,50.0,EXT2B,renewal,50,,2,15,50.0
+研究2/orginal data/50kHz USVs/5renewal/EXT2G 2025-02-10  8_51 PM_Stats.xlsx,46.0,EXT2G,renewal,50,,2,15,46.0
+研究2/orginal data/50kHz USVs/5renewal/EXT2R 2025-02-10  8_40 PM_Stats.xlsx,78.0,EXT2R,renewal,50,,2,15,78.0
+研究2/orginal data/50kHz USVs/5renewal/EXT3B 2025-02-10  9_43 PM_Stats.xlsx,84.0,EXT3B,renewal,50,,2,15,84.0
+研究2/orginal data/50kHz USVs/5renewal/EXT3G 2025-02-10  9_32 PM_Stats.xlsx,229.0,EXT3G,renewal,50,,2,15,229.0
+研究2/orginal data/50kHz USVs/5renewal/EXT3R 2025-02-10  9_14 PM_Stats.xlsx,395.0,EXT3R,renewal,50,,2,15,395.0
+研究2/orginal data/50kHz USVs/5renewal/NO EXT1Brenewal 2025-02-17  8_03 PM_Stats.xlsx,527.0,NOEXT1B,renewal,50,,2,15,527.0
+研究2/orginal data/50kHz USVs/5renewal/NO EXT1Grenewal 2025-02-17  7_58 PM_Stats.xlsx,62.0,NOEXT1G,renewal,50,,2,15,62.0
+研究2/orginal data/50kHz USVs/5renewal/NO EXT2B 2025-02-10 10_00 PM_Stats.xlsx,253.0,NOEXT2B,renewal,50,,2,15,253.0
+研究2/orginal data/50kHz USVs/5renewal/NO EXT2G 2025-02-10  9_55 PM_Stats.xlsx,105.0,NOEXT2G,renewal,50,,2,15,105.0
+研究2/orginal data/50kHz USVs/5renewal/NO EXT3B 2025-02-10  9_40 PM_Stats.xlsx,7.0,NOEXT3B,renewal,50,,2,15,7.0
+研究2/orginal data/50kHz USVs/5renewal/NO EXT3G 2025-02-10 10_13 PM_Stats.xlsx,5.0,NOEXT3G,renewal,50,,2,15,5.0
+研究2/orginal data/50kHz USVs/5renewal/NO EXT3R 2025-02-10 10_07 PM_Stats.xlsx,5.0,NOEXT3R,renewal,50,,2,15,5.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT1B 2025-02-20  4_37 PM_Stats.xlsx,98.0,EXT1B,extinction2,50,,2,15,98.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT1G 2025-02-20  4_28 PM_Stats.xlsx,14.0,EXT1G,extinction2,50,,2,15,14.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT1R 2025-02-20  4_16 PM_Stats.xlsx,22.0,EXT1R,extinction2,50,,2,15,22.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT2B 2025-02-06  6_59 PM_Stats.xlsx,16.0,EXT2B,extinction2,50,,2,15,16.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT2G 2025-02-06  7_08 PM_Stats.xlsx,45.0,EXT2G,extinction2,50,,2,15,45.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT2R 2025-02-06  7_24 PM_Stats.xlsx,22.0,EXT2R,extinction2,50,,2,15,22.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT3B 2025-02-06  7_31 PM_Stats.xlsx,112.0,EXT3B,extinction2,50,,2,15,112.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT3G 2025-02-06  7_45 PM_Stats.xlsx,24.0,EXT3G,extinction2,50,,2,15,24.0
+研究2/orginal data/50kHz USVs/6extinction2/EXT3R 2025-02-06  7_53 PM_Stats.xlsx,3.0,EXT3R,extinction2,50,,2,15,3.0
+研究2/orginal data/50kHz USVs/6extinction2/NO EXT1B 2025-02-20  5_20 PM_Stats.xlsx,64.0,NOEXT1B,extinction2,50,,2,15,64.0
+研究2/orginal data/50kHz USVs/6extinction2/NO EXT1G 2025-02-20  5_09 PM_Stats.xlsx,34.0,NOEXT1G,extinction2,50,,2,15,34.0
+研究2/orginal data/50kHz USVs/6extinction2/NO EXT2Bs 2025-02-06  7_58 PM_Stats.xlsx,504.0,NOEXT2B,extinction2,50,,2,15,504.0
+研究2/orginal data/50kHz USVs/6extinction2/NO EXT2Gs 2025-02-06  8_19 PM_Stats.xlsx,2.0,NOEXT2G,extinction2,50,,2,15,2.0
+研究2/orginal data/50kHz USVs/6extinction2/NO EXT3B 2025-02-06  8_24 PM_Stats.xlsx,70.0,NOEXT3B,extinction2,50,,2,15,70.0
+研究2/orginal data/50kHz USVs/6extinction2/NO EXT3G 2025-02-06  8_32 PM_Stats.xlsx,1.0,NOEXT3G,extinction2,50,,2,15,1.0
+研究2/orginal data/50kHz USVs/6extinction2/NO EXT3R 2025-02-06  8_36 PM_Stats.xlsx,5.0,NOEXT3R,extinction2,50,,2,15,5.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT1B 2025-02-20  8_56 PM_Stats.xlsx,165.0,EXT1B,extinction3,50,,2,15,165.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT1G 2025-02-20  8_45 PM_Stats.xlsx,15.0,EXT1G,extinction3,50,,2,15,15.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT1R 2025-02-20  5_42 PM_Stats.xlsx,12.0,EXT1R,extinction3,50,,2,15,12.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT2B 2025-02-11 11_26 AM_Stats.xlsx,1.0,EXT2B,extinction3,50,,2,15,1.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT2G 2025-02-10 11_53 PM_Stats.xlsx,26.0,EXT2G,extinction3,50,,2,15,26.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT2R 2025-02-11 12_08 PM_Stats.xlsx,12.0,EXT2R,extinction3,50,,2,15,12.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT3B 2025-02-11 11_52 AM_Stats.xlsx,94.0,EXT3B,extinction3,50,,2,15,94.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT3G 2025-02-11 11_41 AM_Stats.xlsx,41.0,EXT3G,extinction3,50,,2,15,41.0
+研究2/orginal data/50kHz USVs/7extinction3/EXT3R 2025-02-11 11_32 AM_Stats.xlsx,160.0,EXT3R,extinction3,50,,2,15,160.0
+研究2/orginal data/50kHz USVs/7extinction3/NO EXT1B 2025-02-20 11_30 PM_Stats.xlsx,31.0,NOEXT1B,extinction3,50,,2,15,31.0
+研究2/orginal data/50kHz USVs/7extinction3/NO EXT1G 2025-02-20 11_17 PM_Stats.xlsx,164.0,NOEXT1G,extinction3,50,,2,15,164.0
+研究2/orginal data/50kHz USVs/7extinction3/NO EXT1R 2025-02-20 10_17 PM_Stats.xlsx,42.0,NOEXT1R,extinction3,50,,2,15,42.0
+研究2/orginal data/50kHz USVs/7extinction3/NO EXT2B 2025-02-11 12_25 PM_Stats.xlsx,30.0,NOEXT2B,extinction3,50,,2,15,30.0
+研究2/orginal data/50kHz USVs/7extinction3/NO EXT2G 2025-02-11 12_15 PM_Stats.xlsx,9.0,NOEXT2G,extinction3,50,,2,15,9.0
+研究2/orginal data/50kHz USVs/7extinction3/NO EXT3B 2025-02-11 12_52 PM_Stats.xlsx,100.0,NOEXT3B,extinction3,50,,2,15,100.0
+研究2/orginal data/50kHz USVs/7extinction3/NO EXT3G 2025-02-11 12_45 PM_Stats.xlsx,29.0,NOEXT3G,extinction3,50,,2,15,29.0
+研究2/orginal data/50kHz USVs/7extinction3/NO EXT3R 2025-02-11 12_40 PM_Stats.xlsx,12.0,NOEXT3R,extinction3,50,,2,15,12.0
+研究2/orginal data/50kHz USVs/8extinction4/EXT1B 2025-02-21 12_05 AM_Stats.xlsx,73.0,EXT1B,extinction4,50,,2,15,73.0
+研究2/orginal data/50kHz USVs/8extinction4/EXT1G 2025-02-20 11_56 PM_Stats.xlsx,16.0,EXT1G,extinction4,50,,2,15,16.0
+研究2/orginal data/50kHz USVs/8extinction4/EXT1R 2025-02-20 11_43 PM_Stats.xlsx,130.0,EXT1R,extinction4,50,,2,15,130.0
+研究2/orginal data/50kHz USVs/8extinction4/EXT2R 2025-02-11  1_09 PM_Stats.xlsx,10.0,EXT2R,extinction4,50,,2,15,10.0
+研究2/orginal data/50kHz USVs/8extinction4/EXT3B 2025-02-11  1_51 PM_Stats.xlsx,50.0,EXT3B,extinction4,50,,2,15,50.0
+研究2/orginal data/50kHz USVs/8extinction4/NO EXT1B 2025-02-21 12_40 AM_Stats.xlsx,51.0,NOEXT1B,extinction4,50,,2,15,51.0
+研究2/orginal data/50kHz USVs/8extinction4/NO EXT1G 2025-02-21 12_25 AM_Stats.xlsx,389.0,NOEXT1G,extinction4,50,,2,15,389.0
+研究2/orginal data/50kHz USVs/8extinction4/NO EXT1R 2025-02-21 12_17 AM_Stats.xlsx,18.0,NOEXT1R,extinction4,50,,2,15,18.0
+研究2/orginal data/50kHz USVs/8extinction4/NO EXT2B 2025-02-11  2_07 PM_Stats.xlsx,31.0,NOEXT2B,extinction4,50,,2,15,31.0
+研究2/orginal data/50kHz USVs/8extinction4/NO EXT3B 2025-02-11  2_35 PM_Stats.xlsx,58.0,NOEXT3B,extinction4,50,,2,15,58.0
+研究2/orginal data/50kHz USVs/8extinction4/NO EXT3G 2025-02-11  2_28 PM_Stats.xlsx,2.0,NOEXT3G,extinction4,50,,2,15,2.0
+研究2/orginal data/50kHz USVs/8extinction4/NO EXT3R 2025-02-11  2_17 PM_Stats.xlsx,6.0,NOEXT3R,extinction4,50,,2,15,6.0
+研究2/orginal data/50kHz USVs/9LTM2/EXT1B 2025-02-17  8_33 PM_Stats.xlsx,145.0,EXT1B,LTM2,50,,2,15,145.0
+研究2/orginal data/50kHz USVs/9LTM2/EXT1G 2025-02-17  8_29 PM_Stats.xlsx,7.0,EXT1G,LTM2,50,,2,15,7.0
+研究2/orginal data/50kHz USVs/9LTM2/EXT1R 2025-02-17  8_23 PM_Stats.xlsx,51.0,EXT1R,LTM2,50,,2,15,51.0
+研究2/orginal data/50kHz USVs/9LTM2/EXT2R 2025-02-11  5_49 PM_Stats.xlsx,32.0,EXT2R,LTM2,50,,2,15,32.0
+研究2/orginal data/50kHz USVs/9LTM2/EXT3B 2025-02-11  6_15 PM_Stats.xlsx,31.0,EXT3B,LTM2,50,,2,15,31.0
+研究2/orginal data/50kHz USVs/9LTM2/EXT3G 2025-02-11  6_02 PM_Stats.xlsx,14.0,EXT3G,LTM2,50,,2,15,14.0
+研究2/orginal data/50kHz USVs/9LTM2/EXT3R 2025-02-11  5_56 PM_Stats.xlsx,58.0,EXT3R,LTM2,50,,2,15,58.0
+研究2/orginal data/50kHz USVs/9LTM2/NO EXT1B 2025-02-17  8_52 PM_Stats.xlsx,866.0,NOEXT1B,LTM2,50,,2,15,866.0
+研究2/orginal data/50kHz USVs/9LTM2/NO EXT1G 2025-02-17  8_46 PM_Stats.xlsx,76.0,NOEXT1G,LTM2,50,,2,15,76.0
+研究2/orginal data/50kHz USVs/9LTM2/NO EXT1R 2025-02-17  8_42 PM_Stats.xlsx,35.0,NOEXT1R,LTM2,50,,2,15,35.0
+研究2/orginal data/50kHz USVs/9LTM2/NO EXT2B 2025-02-11  6_30 PM_Stats.xlsx,281.0,NOEXT2B,LTM2,50,,2,15,281.0
+研究2/orginal data/50kHz USVs/9LTM2/NO EXT2G 2025-02-11  6_22 PM_Stats.xlsx,114.0,NOEXT2G,LTM2,50,,2,15,114.0
+研究2/orginal data/50kHz USVs/9LTM2/NO EXT3B 2025-02-11  6_39 PM_Stats.xlsx,51.0,NOEXT3B,LTM2,50,,2,15,51.0
+研究2/orginal data/50kHz USVs/9LTM2/NO EXT3R 2025-02-11  6_36 PM_Stats.xlsx,98.0,NOEXT3R,LTM2,50,,2,15,98.0

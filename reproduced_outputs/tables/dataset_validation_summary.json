@@ -1,0 +1,23 @@
+{
+  "full_rows": 74164,
+  "full_subjects": 29,
+  "full_subject_sessions": 326,
+  "primary_rows": 47004,
+  "primary_subjects": 29,
+  "primary_subject_sessions": 213,
+  "channel_missing_counts_full": {
+    "usv22_call_count_5s": 19771,
+    "usv50_call_count_5s": 19771,
+    "leverpress_count_5s": 4979,
+    "freezing_pct_5s": 21328
+  },
+  "event_zero_proportions_primary": {
+    "usv22_call_count_5s": 0.9219002638073356,
+    "usv50_call_count_5s": 0.8861586247978895,
+    "leverpress_count_5s": 0.9748957535528892
+  },
+  "freezing_range_primary": [
+    0.0,
+    100.0
+  ]
+}

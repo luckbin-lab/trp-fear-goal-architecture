@@ -1,0 +1,2 @@
+full_rows,full_subjects,full_subject_sessions,primary_rows,primary_subjects,primary_subject_sessions,channel_missing_counts_full,event_zero_proportions_primary,freezing_range_primary
+74164,29,326,47004,29,213,"{'usv22_call_count_5s': 19771, 'usv50_call_count_5s': 19771, 'leverpress_count_5s': 4979, 'freezing_pct_5s': 21328}","{'usv22_call_count_5s': 0.9219002638073356, 'usv50_call_count_5s': 0.8861586247978895, 'leverpress_count_5s': 0.9748957535528892}","[0.0, 100.0]"
