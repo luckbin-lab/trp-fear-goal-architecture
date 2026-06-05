@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20551231.svg)](https://doi.org/10.5281/zenodo.20551231)
+
 # TRP Canonical Four-State Macro-Architecture: Open Data and Code Package
 
 This repository contains the open data, result tables, figures, and reproducibility scripts for the manuscript:
