@@ -10,6 +10,6 @@ authors:
 version: "1.0.0"
 date-released: "2026-05-31"
 license: "CC-BY-4.0"
-repository-code: "TO_BE_ADDED"
-doi: "TO_BE_ADDED"
+repository-code: https://github.com/luckbin-lab/trp-fear-goal-architecture
+doi: 10.5281/zenodo.20551231
 abstract: "Open data, audit tables, model-result exports, figures, and reproducibility scripts for multimodal TRP state inference in rat fear-goal arbitration experiments."
